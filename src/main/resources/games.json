@@ -1,0 +1,5757 @@
+[
+  {
+    "gameTitle": "#KILLALLZOMBIES",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "1-2-Switch",
+    "compatibility": "Bad",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "10 Second Run RETURNS",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "1001 Ultimate Mahjong 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 28, 2019"
+  },
+  {
+    "gameTitle": "12 orbits",
+    "compatibility": "Okay",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "1917 - The Alien Invasion DX",
+    "compatibility": "Perfect",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "1979 Revolution: Black Friday",
+    "compatibility": "Bad",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "198X",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "2064: Read Only Memories INTEGRAL",
+    "compatibility": "Great",
+    "dateTested": "November 30, 2019"
+  },
+  {
+    "gameTitle": "20XX",
+    "compatibility": "Bad",
+    "dateTested": "March 19, 2020"
+  },
+  {
+    "gameTitle": "36 Fragments of Midnight",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "60 Seconds!",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "7 Billion Humans",
+    "compatibility": "Bad",
+    "dateTested": "July 10, 2020"
+  },
+  {
+    "gameTitle": "7th Sector",
+    "compatibility": "Okay",
+    "dateTested": "May 19, 2020"
+  },
+  {
+    "gameTitle": "88 Heroes - 98 Heroes Edition",
+    "compatibility": "Perfect",
+    "dateTested": "January 7, 2020"
+  },
+  {
+    "gameTitle": "911 Operator",
+    "compatibility": "Perfect",
+    "dateTested": "March 19, 2020"
+  },
+  {
+    "gameTitle": "A Hat in Time",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "A Knight\u0027s Quest",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 13, 2020"
+  },
+  {
+    "gameTitle": "A Magical High School Girl",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "A Normal Lost Phone",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "A Robot Named Fight",
+    "compatibility": "Perfect",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "ABZÛ",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 28, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO 2020 SUPER BASEBALL",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO AGGRESSORS OF DARK KOMBAT",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO ART OF FIGHTING 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO BLAZING STAR",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO BLUE\u0027S JOURNEY",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO CYBER-LIP",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO FATAL FURY",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO GAROU: MARK OF THE WOLVES",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 31, 2020"
+  },
+  {
+    "gameTitle": "ACA NEOGEO GHOST PILOTS",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO KIZUNA ENCOUNTER",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO METAL SLUG",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO METAL SLUG 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 11, 2020"
+  },
+  {
+    "gameTitle": "ACA NEOGEO METAL SLUG 3",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 11, 2020"
+  },
+  {
+    "gameTitle": "ACA NEOGEO METAL SLUG 4",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO METAL SLUG 5",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO METAL SLUG X",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO Money Puzzle Exchanger",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO NINJA MASTER\u0027S",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO PLEASURE GOAL： 5 ON 5 MINI SOCCER",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO PUZZLE BOBBLE 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO RAGNAGARD",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO REAL BOUT FATAL FURY 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SAMURAI SHODOWN IV",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SAMURAI SHODOWN V SPECIAL",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SENGOKU 3",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SHOCK TROOPERS",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SPIN MASTER",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO STRIKERS 1945 PLUS",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SUPER SIDEKICKS 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE KING OF FIGHTERS \u002794",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE KING OF FIGHTERS \u002798",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 18, 2018"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE KING OF FIGHTERS \u002799",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE KING OF FIGHTERS 2000",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE KING OF FIGHTERS 2002",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE KING OF FIGHTERS 2003",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE LAST BLADE",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE LAST BLADE 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO THE ULTIMATE 11: SNK FOOTBALL CHAMPIONSHIP",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO WAKU WAKU 7",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO WORLD HEROES PERFECT",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO ZUPAPA!",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACORN Tactics",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "AER Memories of Old",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 22, 2019"
+  },
+  {
+    "gameTitle": "ANIMUS",
+    "compatibility": "Bad",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "AO Tennis 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 15, 2020"
+  },
+  {
+    "gameTitle": "ARMS",
+    "compatibility": "Great",
+    "dateTested": "April 29, 2020"
+  },
+  {
+    "gameTitle": "ASTRAL CHAIN",
+    "compatibility": "Not Tested",
+    "dateTested": ""
+  },
+  {
+    "gameTitle": "ATOMIK: RunGunJumpGun",
+    "compatibility": "Perfect",
+    "dateTested": "June 4, 2019"
+  },
+  {
+    "gameTitle": "Aaero: Complete Edition",
+    "compatibility": "Bad",
+    "dateTested": "February 6, 2020"
+  },
+  {
+    "gameTitle": "Ace of Seafood",
+    "compatibility": "Okay",
+    "dateTested": "January 25, 2020"
+  },
+  {
+    "gameTitle": "Aces of the Luftwaffe - Squadron",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Adventure Time: Pirates of the Enchiridion",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Aegis Defenders",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Aggelos",
+    "compatibility": "Okay",
+    "dateTested": "June 23, 2020"
+  },
+  {
+    "gameTitle": "Air Conflicts: Pacific Carriers",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "Air Hockey",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "All-Star Fruit Racing",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Alteric",
+    "compatibility": "Perfect",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Alternate Jake Hunter: DAEDALUS The Awakening of Golden Jazz",
+    "compatibility": "Great",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "Alvastia Chronicles",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 12, 2019"
+  },
+  {
+    "gameTitle": "Alwa\u0027s Awakening",
+    "compatibility": "Perfect",
+    "dateTested": "April 16, 2020"
+  },
+  {
+    "gameTitle": "Ambition of the Slimes",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "American Fugitive",
+    "compatibility": "Okay",
+    "dateTested": "February 22, 2020"
+  },
+  {
+    "gameTitle": "American Ninja Warrior: Challenge",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "Amnesia: Collection",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 23, 2019"
+  },
+  {
+    "gameTitle": "Among the Sleep - Enhanced Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Angels of Death",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Anima: Gate of Memories",
+    "compatibility": "Okay",
+    "dateTested": "August 17, 2019"
+  },
+  {
+    "gameTitle": "Animal Crossing: New Horizons",
+    "compatibility": "Bad",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Animal Rivals: Nintendo Switch Edition",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Animal Super Squad",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 21, 2019"
+  },
+  {
+    "gameTitle": "Another Lost Phone: Laura\u0027s Story",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Another World",
+    "compatibility": "Great",
+    "dateTested": "November 30, 2019"
+  },
+  {
+    "gameTitle": "Anthill",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "Antiquia Lost",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Ape Out",
+    "compatibility": "Bad",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Apocryph: an old-school shooter",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives 10-Yard Fight",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives ATHENA",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives Armed F",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives BOMB JACK",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives CRAZY CLIMBER",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives DONKEY KONG",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives DONKEY KONG 3",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives DOUBLE DRAGON",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives DOUBLE DRAGON II The Revenge",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives FRONT LINE",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives ICE CLIMBER",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives IKARI WARRIORS",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives MOON PATROL",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives Mario Bros.",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Arcade Archives NINJA GAIDEN",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives Ninja-Kid II",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives STAR FORCE",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives Sky Skipper",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives TIME PILOT",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives TRACK \u0026 FIELD",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives Traverse USA",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives URBAN CHAMPION",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Arcade Archives VS. GRADIUS",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives VS. SUPER MARIO BROS.",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Arcade Archives X MULTIPLY",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "Arcade Classics Anniversary Collection",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 16, 2019"
+  },
+  {
+    "gameTitle": "Asdivine Dios",
+    "compatibility": "Great",
+    "dateTested": "March 3, 2020"
+  },
+  {
+    "gameTitle": "Asdivine Hearts",
+    "compatibility": "Great",
+    "dateTested": "January 27, 2020"
+  },
+  {
+    "gameTitle": "Asdivine Hearts II",
+    "compatibility": "Great",
+    "dateTested": "March 3, 2020"
+  },
+  {
+    "gameTitle": "Asdivine Kamura",
+    "compatibility": "Great",
+    "dateTested": "March 3, 2020"
+  },
+  {
+    "gameTitle": "Asdivine Menace",
+    "compatibility": "Great",
+    "dateTested": "March 3, 2020"
+  },
+  {
+    "gameTitle": "Asphalt 9: Legends",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Assassin\u0027s Creed III: Remastered",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Assassin’s Creed: The Rebel Collection",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 31, 2020"
+  },
+  {
+    "gameTitle": "Asterix \u0026 Obelix XXL 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Astro Bears Party",
+    "compatibility": "Okay",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Atelier Lulua ~The Scion of Arland~",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 11, 2019"
+  },
+  {
+    "gameTitle": "Atelier Lydie \u0026 Suelle ~The Alchemists and the Mysterious Paintings~",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Atelier Meruru ~The Apprentice of Arland~ DX",
+    "compatibility": "Bad",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Atelier Rorona ~The Alchemist of Arland~ DX",
+    "compatibility": "Okay",
+    "dateTested": "January 5, 2019"
+  },
+  {
+    "gameTitle": "Atelier Ryza: Ever Darkness \u0026 the Secret Hideout",
+    "compatibility": "Bad",
+    "dateTested": "December 30, 2019"
+  },
+  {
+    "gameTitle": "Awesome Pea",
+    "compatibility": "Perfect",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Axiom Verge",
+    "compatibility": "Bad",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Azure Reflections",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 15, 2018"
+  },
+  {
+    "gameTitle": "Azure Saga: Pathfinder DELUXE Edition",
+    "compatibility": "Great",
+    "dateTested": "May 16, 2020"
+  },
+  {
+    "gameTitle": "BAFL - Brakes Are For Losers",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "BDSM: Big Drunk Satanic Massacre",
+    "compatibility": "Great",
+    "dateTested": "June 24, 2020"
+  },
+  {
+    "gameTitle": "BLAZBLUE CROSS TAG BATTLE",
+    "compatibility": "Okay",
+    "dateTested": "September 8, 2019"
+  },
+  {
+    "gameTitle": "BOOST BEAST",
+    "compatibility": "Bad",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "BOXBOY! + BOXGIRL!",
+    "compatibility": "Great",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "BRAWL",
+    "compatibility": "Bad",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "BUTCHER",
+    "compatibility": "Okay",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Baba Is You",
+    "compatibility": "Okay",
+    "dateTested": "June 29, 2020"
+  },
+  {
+    "gameTitle": "Bad North",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Baldur\u0027s Gate and Baldur\u0027s Gate II: Enhanced Editions",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 27, 2020"
+  },
+  {
+    "gameTitle": "Banner Saga 1",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Banner Saga 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Banner Saga 3",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Barbarous: Tavern of Emyr",
+    "compatibility": "Bad",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Baseball Riot",
+    "compatibility": "Great",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "Bass Pro Shops: The Strike - Championship Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 2, 2020"
+  },
+  {
+    "gameTitle": "Bastion",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Batman - The Telltale Series",
+    "compatibility": "Great",
+    "dateTested": "May 11, 2020"
+  },
+  {
+    "gameTitle": "Batman: The Enemy Within",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 11, 2019"
+  },
+  {
+    "gameTitle": "Battle Chasers: Nightwar",
+    "compatibility": "Great",
+    "dateTested": "May 16, 2020"
+  },
+  {
+    "gameTitle": "Bayonetta",
+    "compatibility": "Okay",
+    "dateTested": "March 22, 2020"
+  },
+  {
+    "gameTitle": "Bayonetta 2",
+    "compatibility": "Great",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "Beach Buggy Racing",
+    "compatibility": "Great",
+    "dateTested": "March 30, 2020"
+  },
+  {
+    "gameTitle": "Bear With Me: The Lost Robots",
+    "compatibility": "Perfect",
+    "dateTested": "February 6, 2020"
+  },
+  {
+    "gameTitle": "Beat Cop",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Bee Simulator",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 6, 2020"
+  },
+  {
+    "gameTitle": "Behind The Screen",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Beholder 2",
+    "compatibility": "Perfect",
+    "dateTested": "June 25, 2020"
+  },
+  {
+    "gameTitle": "Ben 10",
+    "compatibility": "Bad",
+    "dateTested": "June 21, 2020"
+  },
+  {
+    "gameTitle": "Bendy and the Ink Machine",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 14, 2019"
+  },
+  {
+    "gameTitle": "Big Buck Hunter Arcade",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "Binaries",
+    "compatibility": "Okay",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Black The Fall",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Blade Strangers",
+    "compatibility": "Bad",
+    "dateTested": "February 14, 2020"
+  },
+  {
+    "gameTitle": "Blaster Master Zero",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "Blaster Master Zero 2",
+    "compatibility": "Great",
+    "dateTested": "January 7, 2020"
+  },
+  {
+    "gameTitle": "Blazing Beaks",
+    "compatibility": "Bad",
+    "dateTested": "February 6, 2020"
+  },
+  {
+    "gameTitle": "Blazing Chrome",
+    "compatibility": "Bad",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Bleed",
+    "compatibility": "Okay",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Bleed 2",
+    "compatibility": "Bad",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "BlobCat",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Blood Waves",
+    "compatibility": "Bad",
+    "dateTested": "January 7, 2020"
+  },
+  {
+    "gameTitle": "Bloodroots",
+    "compatibility": "Okay",
+    "dateTested": "May 21, 2020"
+  },
+  {
+    "gameTitle": "Bloodstained: Curse of the Moon",
+    "compatibility": "Okay",
+    "dateTested": "July 14, 2020"
+  },
+  {
+    "gameTitle": "Bloodstained: Ritual of the Night",
+    "compatibility": "Okay",
+    "dateTested": "June 21, 2020"
+  },
+  {
+    "gameTitle": "Bloody Zombies",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Bloons TD 5",
+    "compatibility": "Great",
+    "dateTested": "December 9, 2019"
+  },
+  {
+    "gameTitle": "Blossom Tales: The Sleeping King",
+    "compatibility": "Perfect",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Bomber Crew",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Bombslinger",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Bouncy Bob",
+    "compatibility": "Perfect",
+    "dateTested": "June 2, 2020"
+  },
+  {
+    "gameTitle": "Brave Dungeon + Dark Witch Story:COMBAT",
+    "compatibility": "Okay",
+    "dateTested": "August 25, 2019"
+  },
+  {
+    "gameTitle": "Brawlhalla",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "Brawlout",
+    "compatibility": "Okay",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Bridge Constructor Portal",
+    "compatibility": "Okay",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Broforce",
+    "compatibility": "Great",
+    "dateTested": "January 7, 2020"
+  },
+  {
+    "gameTitle": "Broken Sword 5 - the Serpent\u0027s Curse",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Brothers: A Tale of Two Sons",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 14, 2019"
+  },
+  {
+    "gameTitle": "Bubsy: Paws on Fire!",
+    "compatibility": "Okay",
+    "dateTested": "February 6, 2020"
+  },
+  {
+    "gameTitle": "Bud Spencer \u0026 Terence Hill - Slaps And Beans",
+    "compatibility": "Perfect",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Bulletstorm: Duke of Switch Edition",
+    "compatibility": "Okay",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "CRAYON SHINCHAN The Storm Called FLAMING KASUKABE RUNNER!!",
+    "compatibility": "Okay",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "CROSSNIQ+",
+    "compatibility": "Great",
+    "dateTested": "May 12, 2020"
+  },
+  {
+    "gameTitle": "Cabela\u0027s: The Hunt - Championship Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda",
+    "compatibility": "Okay",
+    "dateTested": "July 5, 2020"
+  },
+  {
+    "gameTitle": "Caged Garden Cock Robin",
+    "compatibility": "Perfect",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "Caladrius Blaze",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 5, 2019"
+  },
+  {
+    "gameTitle": "Call of Juarez: Gunslinger",
+    "compatibility": "Perfect",
+    "dateTested": "June 23, 2020"
+  },
+  {
+    "gameTitle": "Candle: The Power of the Flame",
+    "compatibility": "Bad",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Capcom Beat \u0027Em Up Bundle",
+    "compatibility": "Great",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "Car Quest",
+    "compatibility": "Perfect",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "Carnival Games",
+    "compatibility": "Bad",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Cars 3: Driven to Win",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Castle Crashers Remastered",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 15, 2020"
+  },
+  {
+    "gameTitle": "Castle of Heart",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 27, 2019"
+  },
+  {
+    "gameTitle": "Castlevania Anniversary Collection",
+    "compatibility": "Great",
+    "dateTested": "May 16, 2019"
+  },
+  {
+    "gameTitle": "Cat Quest",
+    "compatibility": "Perfect",
+    "dateTested": "November 17, 2019"
+  },
+  {
+    "gameTitle": "Cave Story+",
+    "compatibility": "Great",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Caveblazers",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 24, 2020"
+  },
+  {
+    "gameTitle": "Caveman Warriors",
+    "compatibility": "Okay",
+    "dateTested": "August 28, 2019"
+  },
+  {
+    "gameTitle": "Celeste",
+    "compatibility": "Okay",
+    "dateTested": "July 21, 2020"
+  },
+  {
+    "gameTitle": "Chameleon Run Deluxe Edition",
+    "compatibility": "Great",
+    "dateTested": "August 28, 2019"
+  },
+  {
+    "gameTitle": "Chaos on Deponia",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 20, 2020"
+  },
+  {
+    "gameTitle": "Chasm",
+    "compatibility": "Great",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Chess Ultra",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Chicken Range",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Chiki-Chiki Boxy Racers",
+    "compatibility": "Great",
+    "dateTested": "January 25, 2020"
+  },
+  {
+    "gameTitle": "Children of Morta",
+    "compatibility": "Bad",
+    "dateTested": "June 4, 2020"
+  },
+  {
+    "gameTitle": "Chocobo\u0027s Mystery Dungeon EVERY BUDDY!",
+    "compatibility": "Great",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "ChromaGun",
+    "compatibility": "Great",
+    "dateTested": "May 24, 2020"
+  },
+  {
+    "gameTitle": "Circle of Sumo",
+    "compatibility": "Okay",
+    "dateTested": "November 17, 2018"
+  },
+  {
+    "gameTitle": "Cities: Skylines - Nintendo Switch Edition",
+    "compatibility": "Okay",
+    "dateTested": "March 23, 2020"
+  },
+  {
+    "gameTitle": "Classic Games Collection Vol.1",
+    "compatibility": "Perfect",
+    "dateTested": "June 4, 2020"
+  },
+  {
+    "gameTitle": "Claybook",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 25, 2019"
+  },
+  {
+    "gameTitle": "Clue: The Classic Mystery Game",
+    "compatibility": "Perfect",
+    "dateTested": "February 13, 2020"
+  },
+  {
+    "gameTitle": "ClusterPuck 99",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Clustertruck",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Code of Princess EX",
+    "compatibility": "Bad",
+    "dateTested": "July 20, 2020"
+  },
+  {
+    "gameTitle": "Code: Realize ~Guardian of Rebirth~",
+    "compatibility": "Perfect",
+    "dateTested": "May 9, 2020"
+  },
+  {
+    "gameTitle": "Color Zen",
+    "compatibility": "Great",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Conga Master Party!",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Construction Simulator 2 US - Console Edition",
+    "compatibility": "Bad",
+    "dateTested": "March 10, 2020"
+  },
+  {
+    "gameTitle": "Contra Anniversary Collection",
+    "compatibility": "Great",
+    "dateTested": "May 26, 2020"
+  },
+  {
+    "gameTitle": "Cosmic Star Heroine",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Crash Bandicoot N. Sane Trilogy",
+    "compatibility": "Okay",
+    "dateTested": "June 19, 2020"
+  },
+  {
+    "gameTitle": "Crawl",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Crayola Scoot",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Croc\u0027s World",
+    "compatibility": "Bad",
+    "dateTested": "December 4, 2018"
+  },
+  {
+    "gameTitle": "Croixleur Sigma",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Crossing Souls",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Crypt of the NecroDancer: Nintendo Switch Edition",
+    "compatibility": "Perfect",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Crystal Crisis",
+    "compatibility": "Okay",
+    "dateTested": "April 6, 2020"
+  },
+  {
+    "gameTitle": "Cubikolor",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Cuphead",
+    "compatibility": "Great",
+    "dateTested": "February 4, 2020"
+  },
+  {
+    "gameTitle": "Cursed Castilla",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Cytus α",
+    "compatibility": "Okay",
+    "dateTested": "June 23, 2020"
+  },
+  {
+    "gameTitle": "DAEMON X MACHINA: Prototype Missions",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 24, 2019"
+  },
+  {
+    "gameTitle": "DEEMO",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "DELTARUNE Chapter 1",
+    "compatibility": "Bad",
+    "dateTested": "June 9, 2020"
+  },
+  {
+    "gameTitle": "DOOM",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "DOOM (1993)",
+    "compatibility": "Okay",
+    "dateTested": "June 19, 2020"
+  },
+  {
+    "gameTitle": "DOOM 3",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 19, 2020"
+  },
+  {
+    "gameTitle": "DORAEMON STORY OF SEASONS",
+    "compatibility": "Bad",
+    "dateTested": "April 23, 2020"
+  },
+  {
+    "gameTitle": "DRAGON BALL FIGHTERZ",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 5, 2020"
+  },
+  {
+    "gameTitle": "DRAGON BALL Xenoverse 2 for Nintendo Switch",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 29, 2020"
+  },
+  {
+    "gameTitle": "DRAGON QUEST",
+    "compatibility": "Great",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "DRAGON QUEST BUILDERS 2",
+    "compatibility": "Bad",
+    "dateTested": "May 26, 2020"
+  },
+  {
+    "gameTitle": "DRAGON QUEST II: Luminaries of the Legendary Line",
+    "compatibility": "Great",
+    "dateTested": "May 25, 2020"
+  },
+  {
+    "gameTitle": "DRAGON QUEST III: The Seeds of Salvation",
+    "compatibility": "Okay",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition",
+    "compatibility": "Bad",
+    "dateTested": "July 23, 2019"
+  },
+  {
+    "gameTitle": "Daggerhood",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Dandara",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Dandy Dungeon - Legend of Brave Yamada -",
+    "compatibility": "Great",
+    "dateTested": "May 12, 2020"
+  },
+  {
+    "gameTitle": "Dark Devotion",
+    "compatibility": "Bad",
+    "dateTested": "May 31, 2020"
+  },
+  {
+    "gameTitle": "Dark Witch Music Episode: Rudymical",
+    "compatibility": "Perfect",
+    "dateTested": "March 5, 2020"
+  },
+  {
+    "gameTitle": "Darkest Dungeon",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Darksiders Genesis",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 16, 2020"
+  },
+  {
+    "gameTitle": "Darksiders Warmastered Edition",
+    "compatibility": "Okay",
+    "dateTested": "March 20, 2020"
+  },
+  {
+    "gameTitle": "Darkwood",
+    "compatibility": "Great",
+    "dateTested": "June 21, 2020"
+  },
+  {
+    "gameTitle": "Darts Up",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Dawn of the Breakers",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "De Mambo",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Dead Cells",
+    "compatibility": "Great",
+    "dateTested": "June 21, 2020"
+  },
+  {
+    "gameTitle": "Deadly Premonition Origins",
+    "compatibility": "Bad",
+    "dateTested": "July 15, 2020"
+  },
+  {
+    "gameTitle": "Death Mark",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Death Squared",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Decay of Logos",
+    "compatibility": "Not Tested",
+    "dateTested": ""
+  },
+  {
+    "gameTitle": "Deep Ones",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Degrees of Separation",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 12, 2019"
+  },
+  {
+    "gameTitle": "Deponia",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 11, 2019"
+  },
+  {
+    "gameTitle": "Destiny Connect: Tick-Tock Travelers",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 24, 2020"
+  },
+  {
+    "gameTitle": "Devil Engine",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 22, 2019"
+  },
+  {
+    "gameTitle": "Devil May Cry",
+    "compatibility": "Bad",
+    "dateTested": "April 5, 2020"
+  },
+  {
+    "gameTitle": "Devious Dungeon",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Diablo III: Eternal Collection",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Die for Valhalla!",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Disc Jam",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Disco Dodgeball - REMIX",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Disease -Hidden Object-",
+    "compatibility": "Bad",
+    "dateTested": "November 25, 2018"
+  },
+  {
+    "gameTitle": "Disgaea 1 Complete",
+    "compatibility": "Great",
+    "dateTested": "September 12, 2019"
+  },
+  {
+    "gameTitle": "Disgaea 5 Complete",
+    "compatibility": "Okay",
+    "dateTested": "April 14, 2020"
+  },
+  {
+    "gameTitle": "Disney Classic Games: Aladdin and The Lion King",
+    "compatibility": "Great",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Don\u0027t Die, Mr Robot!",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Don\u0027t Knock Twice",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Don\u0027t Starve: Nintendo Switch Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 8, 2020"
+  },
+  {
+    "gameTitle": "Donkey Kong Country: Tropical Freeze",
+    "compatibility": "Bad",
+    "dateTested": "May 28, 2020"
+  },
+  {
+    "gameTitle": "Donut County",
+    "compatibility": "Okay",
+    "dateTested": "July 22, 2019"
+  },
+  {
+    "gameTitle": "Double Dragon 4",
+    "compatibility": "Great",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Doughlings: Arcade",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Downwell",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Dracula\u0027s Legacy",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 25, 2018"
+  },
+  {
+    "gameTitle": "Dragon Marked for Death: Frontline Fighters",
+    "compatibility": "Perfect",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Dragon Quest Builders",
+    "compatibility": "Bad",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "Dragon Sinker",
+    "compatibility": "Great",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Dragon\u0027s Dogma: Dark Arisen",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Dragon\u0027s Lair Trilogy",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 22, 2019"
+  },
+  {
+    "gameTitle": "DragonFangZ - The Rose \u0026 Dungeon of Time",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Draw a Stickman: EPIC 2",
+    "compatibility": "Bad",
+    "dateTested": "March 2, 2019"
+  },
+  {
+    "gameTitle": "Dream Alone",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "DreamWorks Dragons Dawn of New Riders",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 15, 2019"
+  },
+  {
+    "gameTitle": "Drift Legends",
+    "compatibility": "Okay",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Duck Game",
+    "compatibility": "Great",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Dungeon Rushers",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Dust: An Elysian Tail",
+    "compatibility": "Okay",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "EARTH WARS",
+    "compatibility": "Great",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Eagle Island",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Earth Atlantis",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Edna \u0026 Harvey: Harvey\u0027s New Eyes",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 19, 2019"
+  },
+  {
+    "gameTitle": "Element",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Ellen",
+    "compatibility": "Perfect",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "Elli",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 14, 2020"
+  },
+  {
+    "gameTitle": "Elliot Quest",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Embers of Mirrim",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Enchanted in the Moonlight - Kiryu, Chikage \u0026 Yukinojo -",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 30, 2020"
+  },
+  {
+    "gameTitle": "Enchanting Mahjong Match",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Energy Balance",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Energy Cycle",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Enigmatis 2: The Mists of Ravenwood",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Enter the Gungeon",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Epic Loon",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Eternal Edge",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 22, 2019"
+  },
+  {
+    "gameTitle": "Everspace - Stellar Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 25, 2019"
+  },
+  {
+    "gameTitle": "Evoland Legendary Edition",
+    "compatibility": "Okay",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "FANTASY HERO ～unsigned legacy～",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "FAST RMX",
+    "compatibility": "Bad",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "FIFA 18",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 26, 2019"
+  },
+  {
+    "gameTitle": "FINAL FANTASY IX",
+    "compatibility": "Bad",
+    "dateTested": "January 4, 2020"
+  },
+  {
+    "gameTitle": "FINAL FANTASY VII",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 7, 2019"
+  },
+  {
+    "gameTitle": "FINAL FANTASY VIII Remastered",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "FINAL FANTASY X/X-2 HD Remaster",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 6, 2020"
+  },
+  {
+    "gameTitle": "FINAL FANTASY XII THE ZODIAC AGE",
+    "compatibility": "Intro/Menu",
+    "dateTested": "October 3, 2019"
+  },
+  {
+    "gameTitle": "FINAL FANTASY XV POCKET EDITION HD",
+    "compatibility": "Okay",
+    "dateTested": "June 1, 2020"
+  },
+  {
+    "gameTitle": "FLASHBACK",
+    "compatibility": "Perfect",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "FOX n FORESTS",
+    "compatibility": "Perfect",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "FRAMED Collection",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "FUN! FUN! Animal Park",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 25, 2020"
+  },
+  {
+    "gameTitle": "FUZE4 Nintendo Switch",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 18, 2020"
+  },
+  {
+    "gameTitle": "Fairune Collection",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fall of Light: Darkest Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fallen Legion: Rise to Glory",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fallout Shelter",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Farming Simulator Nintendo Switch Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fate/EXTELLA LINK",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Fate/EXTELLA: The Umbral Star",
+    "compatibility": "Bad",
+    "dateTested": "December 22, 2019"
+  },
+  {
+    "gameTitle": "Fe",
+    "compatibility": "Bad",
+    "dateTested": "September 2, 2019"
+  },
+  {
+    "gameTitle": "Fear Effect Sedna",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fernz Gate",
+    "compatibility": "Bad",
+    "dateTested": "February 26, 2019"
+  },
+  {
+    "gameTitle": "Fight\u0027N Rage",
+    "compatibility": "Okay",
+    "dateTested": "September 28, 2019"
+  },
+  {
+    "gameTitle": "Figment",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fill-a-Pix: Phil\u0027s Epic Adventure",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fin and the Ancient Mystery",
+    "compatibility": "Perfect",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Fire Emblem Warriors",
+    "compatibility": "Bad",
+    "dateTested": "June 29, 2020"
+  },
+  {
+    "gameTitle": "Firefighters – The Simulation",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Firefighters: Airport Fire Department",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Fitness Boxing",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Five Nights at Freddy\u0027s",
+    "compatibility": "Okay",
+    "dateTested": "July 15, 2020"
+  },
+  {
+    "gameTitle": "Five Nights at Freddy\u0027s 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 2, 2020"
+  },
+  {
+    "gameTitle": "Flat Heroes",
+    "compatibility": "Perfect",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Flinthook",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Flip Wars",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Flipping Death",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Flood of Light",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Floor Kids",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Florence",
+    "compatibility": "Perfect",
+    "dateTested": "February 16, 2020"
+  },
+  {
+    "gameTitle": "Football Manager 2020 Touch",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Forager",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 12, 2019"
+  },
+  {
+    "gameTitle": "Forgotton Anne",
+    "compatibility": "Okay",
+    "dateTested": "March 26, 2020"
+  },
+  {
+    "gameTitle": "Fortnite",
+    "compatibility": "Okay",
+    "dateTested": "June 6, 2020"
+  },
+  {
+    "gameTitle": "Freaky Awesome",
+    "compatibility": "Okay",
+    "dateTested": "April 27, 2020"
+  },
+  {
+    "gameTitle": "Frederic 2: Evil Strikes Back",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Frederic: Resurrection of Music",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Freedom Planet",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Friday the 13th: Killer Puzzle",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Friday the 13th: The Game Ultimate Slasher Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Frost",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "FruitFall Crush",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Full Metal Furies",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 1, 2019"
+  },
+  {
+    "gameTitle": "FullBlast",
+    "compatibility": "Perfect",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "FunBox Party",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Furi",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Furwind",
+    "compatibility": "Perfect",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "GALAK-Z: Variant S",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "GOD EATER 3",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 5, 2020"
+  },
+  {
+    "gameTitle": "GODS Remastered",
+    "compatibility": "Great",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "GRIP",
+    "compatibility": "Bad",
+    "dateTested": "August 22, 2019"
+  },
+  {
+    "gameTitle": "GRIS",
+    "compatibility": "Bad",
+    "dateTested": "January 18, 2020"
+  },
+  {
+    "gameTitle": "GROOVE COASTER WAI WAI PARTY!!!!",
+    "compatibility": "Okay",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Gal Metal",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "Gal*Gun 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 20, 2019"
+  },
+  {
+    "gameTitle": "Galaxy Champions TV",
+    "compatibility": "Bad",
+    "dateTested": "March 18, 2020"
+  },
+  {
+    "gameTitle": "Game Dev Story",
+    "compatibility": "Great",
+    "dateTested": "January 1, 2020"
+  },
+  {
+    "gameTitle": "Garage",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "October 4, 2019"
+  },
+  {
+    "gameTitle": "Gato Roboto",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 12, 2019"
+  },
+  {
+    "gameTitle": "Gear.Club Unlimited",
+    "compatibility": "Okay",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Gear.Club Unlimited 2",
+    "compatibility": "Okay",
+    "dateTested": "April 4, 2020"
+  },
+  {
+    "gameTitle": "Geki Yaba Runner Anniversary Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Gekido Kintaro\u0027s Revenge",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 8, 2019"
+  },
+  {
+    "gameTitle": "Gem Smashers",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "GensokyoDefenders",
+    "compatibility": "Bad",
+    "dateTested": "July 5, 2020"
+  },
+  {
+    "gameTitle": "Ghoulboy",
+    "compatibility": "Perfect",
+    "dateTested": "September 28, 2019"
+  },
+  {
+    "gameTitle": "Giana Sisters: Twisted Dreams - Owltimate Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 24, 2019"
+  },
+  {
+    "gameTitle": "Gigantosaurus The Game",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 17, 2020"
+  },
+  {
+    "gameTitle": "Ginger: Beyond the Crystal",
+    "compatibility": "Okay",
+    "dateTested": "July 14, 2019"
+  },
+  {
+    "gameTitle": "Go Vacation",
+    "compatibility": "Okay",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "Goblin Sword",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "Golf Story",
+    "compatibility": "Perfect",
+    "dateTested": "May 9, 2020"
+  },
+  {
+    "gameTitle": "Gone Home",
+    "compatibility": "Okay",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Goosebumps The Game",
+    "compatibility": "Bad",
+    "dateTested": "April 30, 2019"
+  },
+  {
+    "gameTitle": "Gorogoa",
+    "compatibility": "Great",
+    "dateTested": "February 26, 2020"
+  },
+  {
+    "gameTitle": "Graceful Explosion Machine",
+    "compatibility": "Great",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Grave Danger",
+    "compatibility": "Great",
+    "dateTested": "May 20, 2020"
+  },
+  {
+    "gameTitle": "Graveyard Keeper",
+    "compatibility": "Okay",
+    "dateTested": "February 1, 2020"
+  },
+  {
+    "gameTitle": "Green Game: TimeSwapper",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Grim Fandango Remastered",
+    "compatibility": "Okay",
+    "dateTested": "April 25, 2019"
+  },
+  {
+    "gameTitle": "Guacamelee! 2",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Guacamelee! Super Turbo Championship Edition",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Gunlord X",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Guns, Gore and Cannoli",
+    "compatibility": "Okay",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "Guns, Gore and Cannoli 2",
+    "compatibility": "Okay",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "Gunvolt Chronicles: Luminous Avenger iX",
+    "compatibility": "Great",
+    "dateTested": "March 23, 2020"
+  },
+  {
+    "gameTitle": "Hammerwatch",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 11, 2020"
+  },
+  {
+    "gameTitle": "Hard West",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Harvest Life",
+    "compatibility": "Bad",
+    "dateTested": "February 23, 2019"
+  },
+  {
+    "gameTitle": "Has-Been Heroes",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 24, 2019"
+  },
+  {
+    "gameTitle": "Headsnatchers",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Heaven Dust",
+    "compatibility": "Perfect",
+    "dateTested": "March 5, 2020"
+  },
+  {
+    "gameTitle": "Hello Neighbor Hide and Seek",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 11, 2019"
+  },
+  {
+    "gameTitle": "Henry The Hamster Handler",
+    "compatibility": "Perfect",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Her Majesty\u0027s SPIFFING",
+    "compatibility": "Perfect",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Hob: The Definitive Edition",
+    "compatibility": "Okay",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Hollow Knight",
+    "compatibility": "Great",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "Holy Potatoes! We\u0027re In Space?!",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 3, 2019"
+  },
+  {
+    "gameTitle": "Horror Pinball Bundle",
+    "compatibility": "Bad",
+    "dateTested": "June 21, 2020"
+  },
+  {
+    "gameTitle": "Horse Farm",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 30, 2020"
+  },
+  {
+    "gameTitle": "Hot Springs Story",
+    "compatibility": "Bad",
+    "dateTested": "February 17, 2019"
+  },
+  {
+    "gameTitle": "Hotel Transylvania 3 Monsters Overboard",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 8, 2019"
+  },
+  {
+    "gameTitle": "Hotline Miami Collection",
+    "compatibility": "Perfect",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Human Resource Machine",
+    "compatibility": "Great",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Human: Fall Flat",
+    "compatibility": "Bad",
+    "dateTested": "April 19, 2020"
+  },
+  {
+    "gameTitle": "Hungry Shark World",
+    "compatibility": "Perfect",
+    "dateTested": "June 28, 2020"
+  },
+  {
+    "gameTitle": "Hyper Light Drifter - Special Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Hyrule Warriors: Definitive Edition",
+    "compatibility": "Okay",
+    "dateTested": "July 6, 2020"
+  },
+  {
+    "gameTitle": "I Am Setsuna",
+    "compatibility": "Great",
+    "dateTested": "August 24, 2019"
+  },
+  {
+    "gameTitle": "ICEY",
+    "compatibility": "Bad",
+    "dateTested": "February 16, 2019"
+  },
+  {
+    "gameTitle": "IMPLOSION",
+    "compatibility": "Great",
+    "dateTested": "June 2, 2020"
+  },
+  {
+    "gameTitle": "INSIDE",
+    "compatibility": "Great",
+    "dateTested": "July 21, 2020"
+  },
+  {
+    "gameTitle": "INVERSUS Deluxe",
+    "compatibility": "Great",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Ice Cream Surfer",
+    "compatibility": "Great",
+    "dateTested": "August 15, 2019"
+  },
+  {
+    "gameTitle": "Iconoclasts",
+    "compatibility": "Okay",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Ikaruga",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 20, 2020"
+  },
+  {
+    "gameTitle": "Impossible Mission",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 1, 2019"
+  },
+  {
+    "gameTitle": "Incredible Mandy",
+    "compatibility": "Okay",
+    "dateTested": "May 3, 2020"
+  },
+  {
+    "gameTitle": "Infinite Minigolf",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 1, 2019"
+  },
+  {
+    "gameTitle": "Into the Breach",
+    "compatibility": "Bad",
+    "dateTested": "June 5, 2020"
+  },
+  {
+    "gameTitle": "Iris School of Wizardry -Vinculum Hearts-",
+    "compatibility": "Bad",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Island Flight Simulator",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 8, 2019"
+  },
+  {
+    "gameTitle": "JUMANJI: The Video Game",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 19, 2020"
+  },
+  {
+    "gameTitle": "JackQuest: The Tale of the Sword",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 12, 2019"
+  },
+  {
+    "gameTitle": "Joe Dever\u0027s Lone Wolf",
+    "compatibility": "Okay",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Joggernauts",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 13, 2018"
+  },
+  {
+    "gameTitle": "Johnny Turbo\u0027s Arcade: Bad Dudes",
+    "compatibility": "Bad",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Johnny Turbo\u0027s Arcade: Fighter\u0027s History",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Johnny Turbo\u0027s Arcade: Gate Of Doom",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "Julie\u0027s Sweets",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 24, 2018"
+  },
+  {
+    "gameTitle": "Just Dance 2018",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Just Dance 2019",
+    "compatibility": "Okay",
+    "dateTested": "May 16, 2020"
+  },
+  {
+    "gameTitle": "Just Dance 2020",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 6, 2020"
+  },
+  {
+    "gameTitle": "Just Shapes \u0026 Beats",
+    "compatibility": "Bad",
+    "dateTested": "July 6, 2020"
+  },
+  {
+    "gameTitle": "KAMIKO",
+    "compatibility": "Perfect",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "KATANA KAMI: A Way of the Samurai Story",
+    "compatibility": "Bad",
+    "dateTested": "April 18, 2020"
+  },
+  {
+    "gameTitle": "KEMONO FRIENDS PICROSS",
+    "compatibility": "Bad",
+    "dateTested": "April 13, 2020"
+  },
+  {
+    "gameTitle": "KILL la KILL -IF",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 10, 2019"
+  },
+  {
+    "gameTitle": "KORAL",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 28, 2019"
+  },
+  {
+    "gameTitle": "KORG Gadget for Nintendo Switch",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 7, 2020"
+  },
+  {
+    "gameTitle": "KUNAI",
+    "compatibility": "Perfect",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Katamari Damacy REROLL",
+    "compatibility": "Great",
+    "dateTested": "May 9, 2020"
+  },
+  {
+    "gameTitle": "Kentucky Route Zero: TV Edition",
+    "compatibility": "Great",
+    "dateTested": "February 3, 2020"
+  },
+  {
+    "gameTitle": "Kero Blaster",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 24, 2019"
+  },
+  {
+    "gameTitle": "King Oddball",
+    "compatibility": "Great",
+    "dateTested": "May 16, 2020"
+  },
+  {
+    "gameTitle": "Kingdom Two Crowns",
+    "compatibility": "Great",
+    "dateTested": "May 15, 2020"
+  },
+  {
+    "gameTitle": "Kirby Star Allies",
+    "compatibility": "Okay",
+    "dateTested": "July 3, 2020"
+  },
+  {
+    "gameTitle": "Kissed by the Baddest Bidder",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 9, 2020"
+  },
+  {
+    "gameTitle": "Kitten Squad",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 30, 2018"
+  },
+  {
+    "gameTitle": "Kitty Love -Way to look for love-",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Klondike Solitaire",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Knights of Pen \u0026 Paper 2 Deluxiest Edition",
+    "compatibility": "Bad",
+    "dateTested": "April 25, 2019"
+  },
+  {
+    "gameTitle": "Koi DX",
+    "compatibility": "Perfect",
+    "dateTested": "March 29, 2020"
+  },
+  {
+    "gameTitle": "Kona",
+    "compatibility": "Great",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "L.A. Noire",
+    "compatibility": "Bad",
+    "dateTested": "March 2, 2020"
+  },
+  {
+    "gameTitle": "LAYTON’S MYSTERY JOURNEY: Katrielle and the Millionaires’ Conspiracy - Deluxe Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 10, 2020"
+  },
+  {
+    "gameTitle": "LEGO CITY Undercover",
+    "compatibility": "Bad",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "LEGO DC Super-Villains",
+    "compatibility": "Bad",
+    "dateTested": "August 3, 2019"
+  },
+  {
+    "gameTitle": "LEGO Harry Potter Collection",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 26, 2019"
+  },
+  {
+    "gameTitle": "LEGO Jurassic World",
+    "compatibility": "Great",
+    "dateTested": "June 18, 2020"
+  },
+  {
+    "gameTitle": "LEGO Marvel Super Heroes 2",
+    "compatibility": "Bad",
+    "dateTested": "December 22, 2019"
+  },
+  {
+    "gameTitle": "LEGO NINJAGO Movie Video Game",
+    "compatibility": "Bad",
+    "dateTested": "January 12, 2019"
+  },
+  {
+    "gameTitle": "LEGO The Incredibles",
+    "compatibility": "Bad",
+    "dateTested": "December 6, 2018"
+  },
+  {
+    "gameTitle": "LEGO Worlds",
+    "compatibility": "Okay",
+    "dateTested": "June 16, 2020"
+  },
+  {
+    "gameTitle": "LIMBO",
+    "compatibility": "Okay",
+    "dateTested": "June 26, 2020"
+  },
+  {
+    "gameTitle": "LOST SPHEAR",
+    "compatibility": "Great",
+    "dateTested": "February 20, 2020"
+  },
+  {
+    "gameTitle": "LUMINES REMASTERED",
+    "compatibility": "Great",
+    "dateTested": "March 30, 2020"
+  },
+  {
+    "gameTitle": "Labyrinth of Refrain: Coven of Dusk",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 23, 2019"
+  },
+  {
+    "gameTitle": "Labyrinth of the Witch",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 23, 2020"
+  },
+  {
+    "gameTitle": "Lapis x Labyrinth",
+    "compatibility": "Bad",
+    "dateTested": "May 26, 2020"
+  },
+  {
+    "gameTitle": "Layers of Fear: Legacy",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 5, 2019"
+  },
+  {
+    "gameTitle": "League of Evil",
+    "compatibility": "Great",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Legend of Kay Anniversary",
+    "compatibility": "Okay",
+    "dateTested": "July 24, 2019"
+  },
+  {
+    "gameTitle": "Legend of the Skyfish",
+    "compatibility": "Perfect",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Legendary Fishing",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "Leisure Suit Larry - Wet Dreams Don\u0027t Dry",
+    "compatibility": "Perfect",
+    "dateTested": "July 10, 2019"
+  },
+  {
+    "gameTitle": "Lethal League Blaze",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 11, 2020"
+  },
+  {
+    "gameTitle": "Lichtspeer: Double Speer Edition",
+    "compatibility": "Okay",
+    "dateTested": "February 19, 2019"
+  },
+  {
+    "gameTitle": "Light Tracer",
+    "compatibility": "Great",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "Link-a-Pix Deluxe",
+    "compatibility": "Perfect",
+    "dateTested": "January 4, 2020"
+  },
+  {
+    "gameTitle": "Little Dragons Café",
+    "compatibility": "Great",
+    "dateTested": "August 9, 2019"
+  },
+  {
+    "gameTitle": "Little Friends: Dogs \u0026 Cats",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 21, 2019"
+  },
+  {
+    "gameTitle": "Little Town Hero",
+    "compatibility": "Great",
+    "dateTested": "February 19, 2020"
+  },
+  {
+    "gameTitle": "Lode Runner Legacy",
+    "compatibility": "Bad",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "Lovecraft´s Untold Stories",
+    "compatibility": "Okay",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Lovers in a Dangerous Spacetime",
+    "compatibility": "Great",
+    "dateTested": "February 4, 2020"
+  },
+  {
+    "gameTitle": "Luigi\u0027s Mansion 3",
+    "compatibility": "Bad",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Luke \u0026 Rebecca",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 3, 2019"
+  },
+  {
+    "gameTitle": "Lumo",
+    "compatibility": "Okay",
+    "dateTested": "December 22, 2019"
+  },
+  {
+    "gameTitle": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "MEMBRANE",
+    "compatibility": "Great",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "METAGAL",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "MIGHTY GUNVOLT BURST",
+    "compatibility": "Great",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "MONOPOLY for Nintendo Switch",
+    "compatibility": "Bad",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "MUSYNX",
+    "compatibility": "Bad",
+    "dateTested": "November 16, 2019"
+  },
+  {
+    "gameTitle": "MXGP3 - The Official Motocross Videogame",
+    "compatibility": "Bad",
+    "dateTested": "March 8, 2019"
+  },
+  {
+    "gameTitle": "MY HERO ONE\u0027S JUSTICE",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 26, 2019"
+  },
+  {
+    "gameTitle": "Mainlining",
+    "compatibility": "Great",
+    "dateTested": "August 11, 2019"
+  },
+  {
+    "gameTitle": "Manticore - Galaxy on Fire",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 25, 2020"
+  },
+  {
+    "gameTitle": "Mantis Burn Racing",
+    "compatibility": "Bad",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Manual Samuel",
+    "compatibility": "Great",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Marble It Up!",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Mario \u0026 Sonic at the Olympic Games Tokyo 2020",
+    "compatibility": "Bad",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Mario + Rabbids Kingdom Battle",
+    "compatibility": "Bad",
+    "dateTested": "July 24, 2020"
+  },
+  {
+    "gameTitle": "Mario Kart 8 Deluxe",
+    "compatibility": "Bad",
+    "dateTested": "July 28, 2020"
+  },
+  {
+    "gameTitle": "Mario Tennis Aces",
+    "compatibility": "Bad",
+    "dateTested": "July 10, 2020"
+  },
+  {
+    "gameTitle": "Mary Skelter 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 13, 2020"
+  },
+  {
+    "gameTitle": "Max: The Curse of Brotherhood",
+    "compatibility": "Not Tested",
+    "dateTested": ""
+  },
+  {
+    "gameTitle": "Mechstermination Force",
+    "compatibility": "Bad",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Mega Man 11",
+    "compatibility": "Okay",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Mega Man Legacy Collection",
+    "compatibility": "Bad",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "Mega Man Legacy Collection 2",
+    "compatibility": "Okay",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "Mega Man X Legacy Collection",
+    "compatibility": "Great",
+    "dateTested": "July 16, 2020"
+  },
+  {
+    "gameTitle": "Mega Man X Legacy Collection 2",
+    "compatibility": "Great",
+    "dateTested": "July 16, 2020"
+  },
+  {
+    "gameTitle": "Meow Motors",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Mercenaries Saga Chronicles",
+    "compatibility": "Okay",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Mercenary Kings: Reloaded Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "Metaloid: Origin",
+    "compatibility": "Perfect",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "Metro: Last Light Redux",
+    "compatibility": "Bad",
+    "dateTested": "July 6, 2020"
+  },
+  {
+    "gameTitle": "Metropolis: Lux Obscura",
+    "compatibility": "Great",
+    "dateTested": "July 5, 2020"
+  },
+  {
+    "gameTitle": "Mighty Switch Force! Collection",
+    "compatibility": "Perfect",
+    "dateTested": "July 16, 2020"
+  },
+  {
+    "gameTitle": "Milanoir",
+    "compatibility": "Bad",
+    "dateTested": "November 19, 2018"
+  },
+  {
+    "gameTitle": "Milo\u0027s Quest",
+    "compatibility": "Okay",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "Mimpi Dreams",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 16, 2018"
+  },
+  {
+    "gameTitle": "Minecraft",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 2, 2020"
+  },
+  {
+    "gameTitle": "Minecraft: Nintendo Switch Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Minecraft: Story Mode - The Complete Adventure",
+    "compatibility": "Great",
+    "dateTested": "May 21, 2020"
+  },
+  {
+    "gameTitle": "Mini Metro",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 18, 2019"
+  },
+  {
+    "gameTitle": "Minit",
+    "compatibility": "Perfect",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "Mirror",
+    "compatibility": "Great",
+    "dateTested": "May 9, 2020"
+  },
+  {
+    "gameTitle": "Modern Combat Blackout",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Moero Chronicle Hyper",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 7, 2020"
+  },
+  {
+    "gameTitle": "Momodora: Reverie Under the Moonlight",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "Monica e a Guarda dos Coelhos",
+    "compatibility": "Bad",
+    "dateTested": "April 19, 2020"
+  },
+  {
+    "gameTitle": "Monochrome Order",
+    "compatibility": "Great",
+    "dateTested": "May 16, 2020"
+  },
+  {
+    "gameTitle": "Mononoke Slashdown",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 19, 2020"
+  },
+  {
+    "gameTitle": "Monster Hunter Generations Ultimate",
+    "compatibility": "Bad",
+    "dateTested": "July 27, 2020"
+  },
+  {
+    "gameTitle": "Monster Jam Crush It!",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 23, 2019"
+  },
+  {
+    "gameTitle": "Moon Hunters",
+    "compatibility": "Intro/Menu",
+    "dateTested": "October 4, 2019"
+  },
+  {
+    "gameTitle": "Moonlighter",
+    "compatibility": "Perfect",
+    "dateTested": "February 25, 2020"
+  },
+  {
+    "gameTitle": "Moorhuhn Remake",
+    "compatibility": "Bad",
+    "dateTested": "February 24, 2019"
+  },
+  {
+    "gameTitle": "Morphies Law",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 12, 2019"
+  },
+  {
+    "gameTitle": "Mortal Kombat 11",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 28, 2020"
+  },
+  {
+    "gameTitle": "Mosaic",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Moto Racer 4",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 5, 2019"
+  },
+  {
+    "gameTitle": "MotoGP18",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 23, 2019"
+  },
+  {
+    "gameTitle": "Mulaka",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 25, 2019"
+  },
+  {
+    "gameTitle": "Muse Dash",
+    "compatibility": "Perfect",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Mutant Football League: Dynasty Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 30, 2018"
+  },
+  {
+    "gameTitle": "Mutant Mudds Collection",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 10, 2019"
+  },
+  {
+    "gameTitle": "My Friend Pedro",
+    "compatibility": "Great",
+    "dateTested": "July 3, 2019"
+  },
+  {
+    "gameTitle": "My Memory of Us",
+    "compatibility": "Perfect",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "My Time at Portia",
+    "compatibility": "Bad",
+    "dateTested": "September 24, 2019"
+  },
+  {
+    "gameTitle": "N++ (NPLUSPLUS)",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 19, 2019"
+  },
+  {
+    "gameTitle": "NAMCO MUSEUM",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 18, 2020"
+  },
+  {
+    "gameTitle": "NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.)",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 8, 2019"
+  },
+  {
+    "gameTitle": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 27, 2019"
+  },
+  {
+    "gameTitle": "NBA 2K Playgrounds 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "NBA 2K18",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 30, 2018"
+  },
+  {
+    "gameTitle": "NEKOPARA Vol.1",
+    "compatibility": "Okay",
+    "dateTested": "December 23, 2019"
+  },
+  {
+    "gameTitle": "Nelke \u0026 the Legendary Alchemists ~Ateliers of the New World~",
+    "compatibility": "Bad",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Neon Caves",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Never Stop",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 1, 2019"
+  },
+  {
+    "gameTitle": "Neverwinter Nights: Enhanced Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 2, 2020"
+  },
+  {
+    "gameTitle": "New Super Lucky\u0027s Tale",
+    "compatibility": "Great",
+    "dateTested": "June 16, 2020"
+  },
+  {
+    "gameTitle": "New Super Mario Bros. U Deluxe",
+    "compatibility": "Bad",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Ni no Kuni: Wrath of the White Witch",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 30, 2020"
+  },
+  {
+    "gameTitle": "Nickelodeon Kart Racers",
+    "compatibility": "Perfect",
+    "dateTested": "March 16, 2020"
+  },
+  {
+    "gameTitle": "Nidhogg 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Night in the Woods",
+    "compatibility": "Okay",
+    "dateTested": "September 29, 2019"
+  },
+  {
+    "gameTitle": "Nights of Azure 2: Bride of the New Moon",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 31, 2018"
+  },
+  {
+    "gameTitle": "Nine Parchments",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 11, 2019"
+  },
+  {
+    "gameTitle": "Nintendo Entertainment System - Nintendo Switch Online",
+    "compatibility": "Great",
+    "dateTested": "July 22, 2020"
+  },
+  {
+    "gameTitle": "NoReload Heroes",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 17, 2018"
+  },
+  {
+    "gameTitle": "Not Tonight: Take Back Control Edition",
+    "compatibility": "Okay",
+    "dateTested": "March 9, 2020"
+  },
+  {
+    "gameTitle": "OKAMI HD",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 10, 2020"
+  },
+  {
+    "gameTitle": "ONE PIECE Pirate Warriors 3 Deluxe Edition",
+    "compatibility": "Bad",
+    "dateTested": "March 24, 2019"
+  },
+  {
+    "gameTitle": "ONE PIECE: Unlimited World Red Deluxe Edition",
+    "compatibility": "Great",
+    "dateTested": "February 23, 2020"
+  },
+  {
+    "gameTitle": "ONINAKI",
+    "compatibility": "Bad",
+    "dateTested": "April 9, 2020"
+  },
+  {
+    "gameTitle": "OVERPASS",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "OVERWHELM",
+    "compatibility": "Bad",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "OVIVO",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "OXENFREE",
+    "compatibility": "Okay",
+    "dateTested": "February 26, 2019"
+  },
+  {
+    "gameTitle": "Oceanhorn - Monster of Uncharted Seas",
+    "compatibility": "Perfect",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "Octopath Traveler",
+    "compatibility": "Bad",
+    "dateTested": "July 1, 2020"
+  },
+  {
+    "gameTitle": "Octopath Traveler - Prologue Demo Version",
+    "compatibility": "Bad",
+    "dateTested": "March 24, 2019"
+  },
+  {
+    "gameTitle": "Odallus: The Dark Call",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Oddworld: Stranger\u0027s Wrath",
+    "compatibility": "Great",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "Old Man\u0027s Journey",
+    "compatibility": "Great",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Omega Labyrinth Life",
+    "compatibility": "Great",
+    "dateTested": "February 5, 2020"
+  },
+  {
+    "gameTitle": "One Strike",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "One-Way Ticket",
+    "compatibility": "Bad",
+    "dateTested": "May 11, 2020"
+  },
+  {
+    "gameTitle": "Onimusha: Warlords",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 17, 2019"
+  },
+  {
+    "gameTitle": "Operencia: The Stolen Sun",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Outlast: Bundle of Terror",
+    "compatibility": "Great",
+    "dateTested": "May 25, 2020"
+  },
+  {
+    "gameTitle": "Overcooked Special Edition",
+    "compatibility": "Okay",
+    "dateTested": "May 31, 2020"
+  },
+  {
+    "gameTitle": "Overwatch: Legendary Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 30, 2020"
+  },
+  {
+    "gameTitle": "Owlboy",
+    "compatibility": "Bad",
+    "dateTested": "April 3, 2019"
+  },
+  {
+    "gameTitle": "PAC-MAN CHAMPIONSHIP EDITION 2 PLUS",
+    "compatibility": "Okay",
+    "dateTested": "December 17, 2019"
+  },
+  {
+    "gameTitle": "PAN-PAN A tiny big adventure",
+    "compatibility": "Great",
+    "dateTested": "April 20, 2020"
+  },
+  {
+    "gameTitle": "PAW Patrol: On a Roll!",
+    "compatibility": "Bad",
+    "dateTested": "April 19, 2020"
+  },
+  {
+    "gameTitle": "PAYDAY 2",
+    "compatibility": "Great",
+    "dateTested": "July 2, 2020"
+  },
+  {
+    "gameTitle": "PC Building Simulator",
+    "compatibility": "Great",
+    "dateTested": "February 9, 2020"
+  },
+  {
+    "gameTitle": "PICROSS LORD OF THE NAZARICK",
+    "compatibility": "Great",
+    "dateTested": "May 23, 2020"
+  },
+  {
+    "gameTitle": "PICROSS S",
+    "compatibility": "Great",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "PICROSS S2",
+    "compatibility": "Okay",
+    "dateTested": "March 21, 2020"
+  },
+  {
+    "gameTitle": "PICROSS S3",
+    "compatibility": "Perfect",
+    "dateTested": "August 12, 2019"
+  },
+  {
+    "gameTitle": "PLANET ALPHA",
+    "compatibility": "Bad",
+    "dateTested": "July 23, 2019"
+  },
+  {
+    "gameTitle": "Pacific Wings",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 8, 2019"
+  },
+  {
+    "gameTitle": "Paladins",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 20, 2020"
+  },
+  {
+    "gameTitle": "Pang Adventures",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 21, 2020"
+  },
+  {
+    "gameTitle": "Pantsu Hunter: Back to the 90s",
+    "compatibility": "Okay",
+    "dateTested": "April 15, 2020"
+  },
+  {
+    "gameTitle": "Panty Party",
+    "compatibility": "Great",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Penny-Punching Princess",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Phantom Doctrine",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 5, 2020"
+  },
+  {
+    "gameTitle": "Pic-a-Pix Pieces",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 1, 2019"
+  },
+  {
+    "gameTitle": "PictoQuest",
+    "compatibility": "Perfect",
+    "dateTested": "February 24, 2020"
+  },
+  {
+    "gameTitle": "Pikuniku",
+    "compatibility": "Perfect",
+    "dateTested": "April 15, 2020"
+  },
+  {
+    "gameTitle": "Pillars of Eternity: Complete Edition",
+    "compatibility": "Bad",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Pinball FX3",
+    "compatibility": "Great",
+    "dateTested": "November 14, 2019"
+  },
+  {
+    "gameTitle": "Pine",
+    "compatibility": "Bad",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Pitfall Planet",
+    "compatibility": "Okay",
+    "dateTested": "July 10, 2019"
+  },
+  {
+    "gameTitle": "Pixel Devil and the Broken Cartridge",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "PlataGO! Super Platform Game Maker",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 27, 2020"
+  },
+  {
+    "gameTitle": "Please Teach Me Onedari Shogi",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Poi: Explorer Edition",
+    "compatibility": "Great",
+    "dateTested": "July 23, 2019"
+  },
+  {
+    "gameTitle": "Pokkén Tournament DX",
+    "compatibility": "Okay",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Pokémon HOME",
+    "compatibility": "Bad",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "compatibility": "Okay",
+    "dateTested": "July 8, 2020"
+  },
+  {
+    "gameTitle": "Pokémon Quest",
+    "compatibility": "Perfect",
+    "dateTested": "July 16, 2020"
+  },
+  {
+    "gameTitle": "Pokémon Shield",
+    "compatibility": "Okay",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Pokémon Sword",
+    "compatibility": "Okay",
+    "dateTested": "July 28, 2020"
+  },
+  {
+    "gameTitle": "Portal Knights",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 6, 2019"
+  },
+  {
+    "gameTitle": "Power Rangers: Battle for the Grid",
+    "compatibility": "Okay",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "Pressure Overdrive",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Prison Architect: Nintendo Switch Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "Prison Princess",
+    "compatibility": "Great",
+    "dateTested": "February 3, 2020"
+  },
+  {
+    "gameTitle": "Professor Lupo and his Horrible Pets",
+    "compatibility": "Bad",
+    "dateTested": "July 16, 2019"
+  },
+  {
+    "gameTitle": "Psikyo Shooting Stars Alpha",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 10, 2020"
+  },
+  {
+    "gameTitle": "Psikyo Shooting Stars Bravo",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 17, 2020"
+  },
+  {
+    "gameTitle": "Psyvariar Delta",
+    "compatibility": "Great",
+    "dateTested": "April 23, 2020"
+  },
+  {
+    "gameTitle": "Punch Club",
+    "compatibility": "Okay",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Pure / Electric Love \"Everyone else!\" - Ema Sakura -",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 21, 2020"
+  },
+  {
+    "gameTitle": "Pure / Electric Love \"Look at my eyes!\" - Moe Yamauchi -",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 10, 2020"
+  },
+  {
+    "gameTitle": "Puyo Puyo Tetris",
+    "compatibility": "Perfect",
+    "dateTested": "May 27, 2020"
+  },
+  {
+    "gameTitle": "Puzzle Quest: The Legend Returns",
+    "compatibility": "Great",
+    "dateTested": "April 25, 2020"
+  },
+  {
+    "gameTitle": "Q-YO Blaster",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "Q.U.B.E. 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 21, 2019"
+  },
+  {
+    "gameTitle": "Quest Hunter",
+    "compatibility": "Bad",
+    "dateTested": "March 30, 2020"
+  },
+  {
+    "gameTitle": "Quest of Dungeons",
+    "compatibility": "Great",
+    "dateTested": "May 30, 2020"
+  },
+  {
+    "gameTitle": "R-Type Dimensions EX",
+    "compatibility": "Perfect",
+    "dateTested": "September 20, 2019"
+  },
+  {
+    "gameTitle": "R.B.I. Baseball 18",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 1, 2019"
+  },
+  {
+    "gameTitle": "Rabi-Ribi",
+    "compatibility": "Okay",
+    "dateTested": "April 19, 2020"
+  },
+  {
+    "gameTitle": "Race Arcade",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 15, 2020"
+  },
+  {
+    "gameTitle": "Rad Rodgers Radical Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 17, 2019"
+  },
+  {
+    "gameTitle": "Raiden V: Director\u0027s Cut",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 31, 2020"
+  },
+  {
+    "gameTitle": "Rain World",
+    "compatibility": "Bad",
+    "dateTested": "March 24, 2019"
+  },
+  {
+    "gameTitle": "Rayman Legends Definitive Edition",
+    "compatibility": "Great",
+    "dateTested": "April 9, 2020"
+  },
+  {
+    "gameTitle": "Red\u0027s Kingdom",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 30, 2019"
+  },
+  {
+    "gameTitle": "Redeemer: Enhanced Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 20, 2019"
+  },
+  {
+    "gameTitle": "Redout",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "RemiLore",
+    "compatibility": "Great",
+    "dateTested": "March 18, 2020"
+  },
+  {
+    "gameTitle": "Reptilian Rebellion",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Resident Evil",
+    "compatibility": "Perfect",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "Resident Evil 5",
+    "compatibility": "Perfect",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "Resident Evil Revelations",
+    "compatibility": "Perfect",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "Resident Evil Revelations 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 26, 2019"
+  },
+  {
+    "gameTitle": "Retro City Rampage DX",
+    "compatibility": "Perfect",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Revenant Saga",
+    "compatibility": "Bad",
+    "dateTested": "March 5, 2019"
+  },
+  {
+    "gameTitle": "Rise: Race The Future",
+    "compatibility": "Great",
+    "dateTested": "June 16, 2020"
+  },
+  {
+    "gameTitle": "Risk of Rain",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 24, 2019"
+  },
+  {
+    "gameTitle": "Risk of Rain 2",
+    "compatibility": "Great",
+    "dateTested": "June 16, 2020"
+  },
+  {
+    "gameTitle": "Ritual: Crown of Horns",
+    "compatibility": "Okay",
+    "dateTested": "June 5, 2020"
+  },
+  {
+    "gameTitle": "River City Girls",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 18, 2020"
+  },
+  {
+    "gameTitle": "River City Melee Mach!!",
+    "compatibility": "Okay",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Road Redemption",
+    "compatibility": "Okay",
+    "dateTested": "April 4, 2020"
+  },
+  {
+    "gameTitle": "Robbie Swifthand and the Orb of Mysteries",
+    "compatibility": "Bad",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Robonauts",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Rocket League",
+    "compatibility": "Bad",
+    "dateTested": "July 2, 2020"
+  },
+  {
+    "gameTitle": "RollerCoaster Tycoon Adventures",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 27, 2020"
+  },
+  {
+    "gameTitle": "Rolling Gunner",
+    "compatibility": "Okay",
+    "dateTested": "May 15, 2020"
+  },
+  {
+    "gameTitle": "Rolling Sky 2",
+    "compatibility": "Great",
+    "dateTested": "February 7, 2020"
+  },
+  {
+    "gameTitle": "Romancing SaGa 2",
+    "compatibility": "Great",
+    "dateTested": "April 7, 2020"
+  },
+  {
+    "gameTitle": "Romancing SaGa 3",
+    "compatibility": "Great",
+    "dateTested": "March 6, 2020"
+  },
+  {
+    "gameTitle": "Roombo: First Blood",
+    "compatibility": "Okay",
+    "dateTested": "March 2, 2020"
+  },
+  {
+    "gameTitle": "Rune Lord",
+    "compatibility": "Great",
+    "dateTested": "May 21, 2020"
+  },
+  {
+    "gameTitle": "SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Columns II: A Voyage Through Time",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Fantasy Zone",
+    "compatibility": "Okay",
+    "dateTested": "June 13, 2020"
+  },
+  {
+    "gameTitle": "SEGA AGES Lightening Force: Quest for the Darkstar",
+    "compatibility": "Bad",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Out Run",
+    "compatibility": "Okay",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Phantasy Star",
+    "compatibility": "Great",
+    "dateTested": "April 26, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Puyo Puyo",
+    "compatibility": "Okay",
+    "dateTested": "November 14, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Puyo Puyo 2",
+    "compatibility": "Bad",
+    "dateTested": "May 20, 2020"
+  },
+  {
+    "gameTitle": "SEGA AGES Shinobi",
+    "compatibility": "Perfect",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "SEGA AGES Sonic The Hedgehog",
+    "compatibility": "Okay",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Space Harrier",
+    "compatibility": "Great",
+    "dateTested": "May 17, 2020"
+  },
+  {
+    "gameTitle": "SEGA AGES Virtua Racing",
+    "compatibility": "Great",
+    "dateTested": "May 9, 2020"
+  },
+  {
+    "gameTitle": "SEGA AGES Wonder Boy: Monster Land",
+    "compatibility": "Okay",
+    "dateTested": "June 14, 2020"
+  },
+  {
+    "gameTitle": "SENRAN KAGURA Peach Ball",
+    "compatibility": "Okay",
+    "dateTested": "September 10, 2019"
+  },
+  {
+    "gameTitle": "SENRAN KAGURA Reflexions",
+    "compatibility": "Great",
+    "dateTested": "March 2, 2020"
+  },
+  {
+    "gameTitle": "SKYHILL",
+    "compatibility": "Great",
+    "dateTested": "May 1, 2020"
+  },
+  {
+    "gameTitle": "SMASHING THE BATTLE",
+    "compatibility": "Perfect",
+    "dateTested": "June 20, 2020"
+  },
+  {
+    "gameTitle": "SMITE",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "SNK 40th ANNIVERSARY COLLECTION",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "SNK HEROINES Tag Team Frenzy",
+    "compatibility": "Bad",
+    "dateTested": "February 10, 2020"
+  },
+  {
+    "gameTitle": "STAR OCEAN First Departure R",
+    "compatibility": "Great",
+    "dateTested": "April 13, 2020"
+  },
+  {
+    "gameTitle": "STAR WARS Jedi Knight II: Jedi Outcast",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2020"
+  },
+  {
+    "gameTitle": "STARSHIP AVENGER Operation: Take Back Earth",
+    "compatibility": "Great",
+    "dateTested": "February 9, 2020"
+  },
+  {
+    "gameTitle": "STEINS;GATE ELITE",
+    "compatibility": "Okay",
+    "dateTested": "September 30, 2019"
+  },
+  {
+    "gameTitle": "SUPER DRAGON BALL HEROES WORLD MISSION - Launch Edition",
+    "compatibility": "Okay",
+    "dateTested": "March 5, 2020"
+  },
+  {
+    "gameTitle": "SUPERBEAT: XONiC",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 2, 2018"
+  },
+  {
+    "gameTitle": "SUPERHOT",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 7, 2020"
+  },
+  {
+    "gameTitle": "SWORD ART ONLINE: FATAL BULLET Complete Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Saturday Morning RPG",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "Scribblenauts Mega Pack",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "Scribblenauts Showdown",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 30, 2020"
+  },
+  {
+    "gameTitle": "Sea King Hunter",
+    "compatibility": "Great",
+    "dateTested": "January 11, 2020"
+  },
+  {
+    "gameTitle": "Severed",
+    "compatibility": "Okay",
+    "dateTested": "September 29, 2019"
+  },
+  {
+    "gameTitle": "Shakedown: Hawaii",
+    "compatibility": "Great",
+    "dateTested": "December 24, 2019"
+  },
+  {
+    "gameTitle": "Shantae: Half- Genie Hero Ultimate Edition",
+    "compatibility": "Great",
+    "dateTested": "February 4, 2020"
+  },
+  {
+    "gameTitle": "She and the Light Bearer",
+    "compatibility": "Great",
+    "dateTested": "January 17, 2020"
+  },
+  {
+    "gameTitle": "Shovel Knight Showdown",
+    "compatibility": "Perfect",
+    "dateTested": "March 25, 2020"
+  },
+  {
+    "gameTitle": "Shovel Knight: King of Cards",
+    "compatibility": "Okay",
+    "dateTested": "June 1, 2020"
+  },
+  {
+    "gameTitle": "Shovel Knight: Specter of Torment",
+    "compatibility": "Great",
+    "dateTested": "June 16, 2019"
+  },
+  {
+    "gameTitle": "Shovel Knight: Treasure Trove",
+    "compatibility": "Great",
+    "dateTested": "April 7, 2020"
+  },
+  {
+    "gameTitle": "Shred! 2 - Freeride Mountainbiking",
+    "compatibility": "Bad",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Shu",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 3, 2020"
+  },
+  {
+    "gameTitle": "Sid Meier’s Civilization VI",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "Silence",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Sine Mora EX",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 5, 2020"
+  },
+  {
+    "gameTitle": "Skellboy",
+    "compatibility": "Okay",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Skelly Selest",
+    "compatibility": "Perfect",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "Sky Force Anniversary",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 16, 2018"
+  },
+  {
+    "gameTitle": "Sky Force Reloaded",
+    "compatibility": "Perfect",
+    "dateTested": "January 13, 2020"
+  },
+  {
+    "gameTitle": "Slice, Dice \u0026 Rice",
+    "compatibility": "Great",
+    "dateTested": "February 19, 2020"
+  },
+  {
+    "gameTitle": "Snake Pass",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 20, 2019"
+  },
+  {
+    "gameTitle": "Snake vs Snake",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 21, 2019"
+  },
+  {
+    "gameTitle": "Sniper Elite V2 Remastered",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Snipperclips – Cut it out, together!",
+    "compatibility": "Great",
+    "dateTested": "November 24, 2019"
+  },
+  {
+    "gameTitle": "Snooker 19",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Snow Moto Racing Freedom",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 1, 2019"
+  },
+  {
+    "gameTitle": "SolSeraph",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Sonic Mania",
+    "compatibility": "Great",
+    "dateTested": "July 6, 2020"
+  },
+  {
+    "gameTitle": "South Park: The Fractured but Whole - Standard Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 10, 2018"
+  },
+  {
+    "gameTitle": "Sparklite",
+    "compatibility": "Perfect",
+    "dateTested": "March 19, 2020"
+  },
+  {
+    "gameTitle": "Spartan",
+    "compatibility": "Bad",
+    "dateTested": "July 25, 2019"
+  },
+  {
+    "gameTitle": "Speed Brawl",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 18, 2018"
+  },
+  {
+    "gameTitle": "Spice and Wolf VR",
+    "compatibility": "Perfect",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Spintires: MudRunner - American Wilds",
+    "compatibility": "Bad",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Splasher",
+    "compatibility": "Great",
+    "dateTested": "February 28, 2020"
+  },
+  {
+    "gameTitle": "Splatoon 2",
+    "compatibility": "Bad",
+    "dateTested": "May 30, 2020"
+  },
+  {
+    "gameTitle": "Sports Party",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 21, 2019"
+  },
+  {
+    "gameTitle": "Spyro Reignited Trilogy",
+    "compatibility": "Intro/Menu",
+    "dateTested": "October 1, 2019"
+  },
+  {
+    "gameTitle": "Star Ghost",
+    "compatibility": "Intro/Menu",
+    "dateTested": "November 22, 2018"
+  },
+  {
+    "gameTitle": "Star Wars Pinball",
+    "compatibility": "Great",
+    "dateTested": "June 6, 2020"
+  },
+  {
+    "gameTitle": "Star-Crossed Myth - The Department of Punishments -",
+    "compatibility": "Bad",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Star-Crossed Myth - The Department of Wishes -",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 28, 2020"
+  },
+  {
+    "gameTitle": "Stardew Valley",
+    "compatibility": "Okay",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "Starlink: Battle for Atlas Digital Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 13, 2019"
+  },
+  {
+    "gameTitle": "SteamWorld Dig",
+    "compatibility": "Great",
+    "dateTested": "June 17, 2020"
+  },
+  {
+    "gameTitle": "SteamWorld Dig 2",
+    "compatibility": "Great",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "SteamWorld Heist: Ultimate Edition",
+    "compatibility": "Bad",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "SteamWorld Quest: Hand of Gilgamech",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Steredenn: Binary Stars",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 13, 2019"
+  },
+  {
+    "gameTitle": "Stern Pinball Arcade",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 31, 2020"
+  },
+  {
+    "gameTitle": "Steven Universe: Save the Light",
+    "compatibility": "Bad",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "Storm Boy",
+    "compatibility": "Great",
+    "dateTested": "February 5, 2020"
+  },
+  {
+    "gameTitle": "Stranger Things 3: The Game",
+    "compatibility": "Perfect",
+    "dateTested": "March 19, 2020"
+  },
+  {
+    "gameTitle": "Street Fighter 30th Anniversary Collection",
+    "compatibility": "Okay",
+    "dateTested": "June 16, 2020"
+  },
+  {
+    "gameTitle": "Subdivision Infinity DX",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Summer Sweetheart",
+    "compatibility": "Bad",
+    "dateTested": "April 2, 2020"
+  },
+  {
+    "gameTitle": "Sundered: Eldritch Edition",
+    "compatibility": "Great",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Super Bomberman R",
+    "compatibility": "Bad",
+    "dateTested": "May 15, 2020"
+  },
+  {
+    "gameTitle": "Super Chariot",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 19, 2019"
+  },
+  {
+    "gameTitle": "Super Crate Box",
+    "compatibility": "Perfect",
+    "dateTested": "April 23, 2020"
+  },
+  {
+    "gameTitle": "Super Kirby Clash",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 8, 2020"
+  },
+  {
+    "gameTitle": "Super Korotama",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 27, 2020"
+  },
+  {
+    "gameTitle": "Super Mario Maker 2",
+    "compatibility": "Okay",
+    "dateTested": "July 24, 2020"
+  },
+  {
+    "gameTitle": "Super Mario Odyssey",
+    "compatibility": "Okay",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Super Mario Party",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Super Meat Boy",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Super Monkey Ball: Banana Blitz HD",
+    "compatibility": "Okay",
+    "dateTested": "April 20, 2020"
+  },
+  {
+    "gameTitle": "Super Neptunia RPG",
+    "compatibility": "Okay",
+    "dateTested": "January 1, 2020"
+  },
+  {
+    "gameTitle": "Super Nintendo Entertainment System - Nintendo Switch Online",
+    "compatibility": "Great",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Super Smash Bros. Ultimate",
+    "compatibility": "Bad",
+    "dateTested": "July 28, 2020"
+  },
+  {
+    "gameTitle": "Super Tennis",
+    "compatibility": "Perfect",
+    "dateTested": "June 2, 2020"
+  },
+  {
+    "gameTitle": "Surgeon Simulator CPR",
+    "compatibility": "Bad",
+    "dateTested": "June 23, 2019"
+  },
+  {
+    "gameTitle": "Switch \u0027N\u0027 Shoot",
+    "compatibility": "Okay",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Syberia",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 1, 2019"
+  },
+  {
+    "gameTitle": "Syberia 1 \u0026 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Syberia 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 1, 2019"
+  },
+  {
+    "gameTitle": "Syberia 3",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 1, 2019"
+  },
+  {
+    "gameTitle": "Sydney Hunter and the Curse of the Mayan",
+    "compatibility": "Great",
+    "dateTested": "September 27, 2019"
+  },
+  {
+    "gameTitle": "TERRORHYTHM (TRRT)",
+    "compatibility": "Bad",
+    "dateTested": "August 15, 2019"
+  },
+  {
+    "gameTitle": "THE Card: Poker, Texas hold \u0027em, Blackjack and Page One",
+    "compatibility": "Bad",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "THE LAST REMNANT Remastered",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 18, 2020"
+  },
+  {
+    "gameTitle": "TINY METAL",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 21, 2019"
+  },
+  {
+    "gameTitle": "Table Top Racing: World Tour - Nitro Edition",
+    "compatibility": "Bad",
+    "dateTested": "May 7, 2019"
+  },
+  {
+    "gameTitle": "Taimumari: Complete Edition",
+    "compatibility": "Bad",
+    "dateTested": "May 20, 2020"
+  },
+  {
+    "gameTitle": "Tales of Vesperia: Definitive Edition",
+    "compatibility": "Bad",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "Tales of the Tiny Planet",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 4, 2019"
+  },
+  {
+    "gameTitle": "Tangrams Deluxe",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 18, 2018"
+  },
+  {
+    "gameTitle": "Team Sonic Racing",
+    "compatibility": "Okay",
+    "dateTested": "April 27, 2020"
+  },
+  {
+    "gameTitle": "Tennis in the Face",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 2, 2020"
+  },
+  {
+    "gameTitle": "Terraria",
+    "compatibility": "Okay",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Teslagrad",
+    "compatibility": "Perfect",
+    "dateTested": "October 1, 2019"
+  },
+  {
+    "gameTitle": "Tetris 99",
+    "compatibility": "Bad",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "The Big Journey",
+    "compatibility": "Great",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "The Binding of Isaac: Afterbirth+",
+    "compatibility": "Okay",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "The Bridge",
+    "compatibility": "Perfect",
+    "dateTested": "August 25, 2019"
+  },
+  {
+    "gameTitle": "The Bunker",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 19, 2019"
+  },
+  {
+    "gameTitle": "The Caligula Effect: Overdose",
+    "compatibility": "Bad",
+    "dateTested": "July 17, 2019"
+  },
+  {
+    "gameTitle": "The Coma: Recut",
+    "compatibility": "Okay",
+    "dateTested": "June 1, 2020"
+  },
+  {
+    "gameTitle": "The Count Lucanor",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 22, 2019"
+  },
+  {
+    "gameTitle": "The Elder Scrolls V: Skyrim",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "The End Is Nigh",
+    "compatibility": "Bad",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "The Escapists 2",
+    "compatibility": "Okay",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "The Escapists: Complete Edition",
+    "compatibility": "Great",
+    "dateTested": "March 3, 2020"
+  },
+  {
+    "gameTitle": "The First Tree",
+    "compatibility": "Perfect",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "The Flame In The Flood: Complete Edition",
+    "compatibility": "Bad",
+    "dateTested": "February 27, 2020"
+  },
+  {
+    "gameTitle": "The House of Da Vinci",
+    "compatibility": "Okay",
+    "dateTested": "July 29, 2019"
+  },
+  {
+    "gameTitle": "The King\u0027s Bird",
+    "compatibility": "Bad",
+    "dateTested": "April 25, 2019"
+  },
+  {
+    "gameTitle": "The LEGO Movie 2 Videogame",
+    "compatibility": "Okay",
+    "dateTested": "July 11, 2020"
+  },
+  {
+    "gameTitle": "The Legend of Zelda: Breath of the Wild",
+    "compatibility": "Bad",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "The Liar Princess and the Blind Prince",
+    "compatibility": "Great",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "The Long Reach",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 23, 2019"
+  },
+  {
+    "gameTitle": "The Longest Five Minutes",
+    "compatibility": "Bad",
+    "dateTested": "March 24, 2019"
+  },
+  {
+    "gameTitle": "The Lost Child",
+    "compatibility": "Bad",
+    "dateTested": "February 10, 2020"
+  },
+  {
+    "gameTitle": "The MISSING: J.J. Macfield and the Island of Memories",
+    "compatibility": "Okay",
+    "dateTested": "February 7, 2020"
+  },
+  {
+    "gameTitle": "The Manga Works",
+    "compatibility": "Perfect",
+    "dateTested": "May 10, 2020"
+  },
+  {
+    "gameTitle": "The Messenger",
+    "compatibility": "Okay",
+    "dateTested": "June 11, 2019"
+  },
+  {
+    "gameTitle": "The Mummy Demastered",
+    "compatibility": "Perfect",
+    "dateTested": "July 27, 2019"
+  },
+  {
+    "gameTitle": "The Ninja Saviors: Return of the Warriors",
+    "compatibility": "Okay",
+    "dateTested": "March 21, 2020"
+  },
+  {
+    "gameTitle": "The Red Strings Club",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "The Room",
+    "compatibility": "Perfect",
+    "dateTested": "May 28, 2020"
+  },
+  {
+    "gameTitle": "The Sexy Brutale",
+    "compatibility": "Okay",
+    "dateTested": "May 11, 2019"
+  },
+  {
+    "gameTitle": "The Stillness of the Wind",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 5, 2020"
+  },
+  {
+    "gameTitle": "The Stretchers",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "The Swords of Ditto: Mormo\u0027s Curse",
+    "compatibility": "Great",
+    "dateTested": "June 28, 2020"
+  },
+  {
+    "gameTitle": "The Walking Dead: A New Frontier",
+    "compatibility": "Not Tested",
+    "dateTested": ""
+  },
+  {
+    "gameTitle": "The Walking Dead: Season Two",
+    "compatibility": "Okay",
+    "dateTested": "May 8, 2020"
+  },
+  {
+    "gameTitle": "The Walking Dead: The Complete First Season",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 11, 2019"
+  },
+  {
+    "gameTitle": "The Walking Dead: The Final Season - Season Pass",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 16, 2020"
+  },
+  {
+    "gameTitle": "The Way Remastered",
+    "compatibility": "Great",
+    "dateTested": "May 8, 2020"
+  },
+  {
+    "gameTitle": "The Witcher 3: Wild Hunt — Complete Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 27, 2020"
+  },
+  {
+    "gameTitle": "The World Ends with You: Final Remix",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 23, 2020"
+  },
+  {
+    "gameTitle": "The friends of Ringo Ishikawa",
+    "compatibility": "Okay",
+    "dateTested": "June 21, 2019"
+  },
+  {
+    "gameTitle": "Them Bombs!",
+    "compatibility": "Great",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Thief Simulator",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 14, 2019"
+  },
+  {
+    "gameTitle": "Thief of Thieves: Season One",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Thimbleweed Park",
+    "compatibility": "Intro/Menu",
+    "dateTested": "February 21, 2019"
+  },
+  {
+    "gameTitle": "This Is the Police",
+    "compatibility": "Great",
+    "dateTested": "February 19, 2019"
+  },
+  {
+    "gameTitle": "This is the Police 2",
+    "compatibility": "Okay",
+    "dateTested": "July 5, 2019"
+  },
+  {
+    "gameTitle": "Timespinner",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 22, 2019"
+  },
+  {
+    "gameTitle": "Tiny Barbarian DX",
+    "compatibility": "Great",
+    "dateTested": "January 1, 2020"
+  },
+  {
+    "gameTitle": "Titan Quest",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 18, 2020"
+  },
+  {
+    "gameTitle": "ToeJam \u0026 Earl: Back in the Groove!",
+    "compatibility": "Okay",
+    "dateTested": "May 21, 2020"
+  },
+  {
+    "gameTitle": "Toki Tori",
+    "compatibility": "Okay",
+    "dateTested": "September 15, 2019"
+  },
+  {
+    "gameTitle": "Toki Tori 2+: Nintendo Switch Edition",
+    "compatibility": "Okay",
+    "dateTested": "May 28, 2019"
+  },
+  {
+    "gameTitle": "Tokyo Dark – Remembrance –",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "Tokyo Mirage Sessions #FE Encore",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 23, 2020"
+  },
+  {
+    "gameTitle": "Torchlight II",
+    "compatibility": "Great",
+    "dateTested": "May 25, 2020"
+  },
+  {
+    "gameTitle": "TouchBattleTankSP",
+    "compatibility": "Great",
+    "dateTested": "August 1, 2019"
+  },
+  {
+    "gameTitle": "Touhou Genso Wanderer Reloaded",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 27, 2020"
+  },
+  {
+    "gameTitle": "Touhou Kobuto V: Burst Battle",
+    "compatibility": "Great",
+    "dateTested": "July 12, 2020"
+  },
+  {
+    "gameTitle": "TowerFall",
+    "compatibility": "Okay",
+    "dateTested": "July 18, 2020"
+  },
+  {
+    "gameTitle": "Townsmen",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 24, 2018"
+  },
+  {
+    "gameTitle": "Transistor",
+    "compatibility": "Okay",
+    "dateTested": "July 28, 2020"
+  },
+  {
+    "gameTitle": "Travis Strikes Again: No More Heroes",
+    "compatibility": "Intro/Menu",
+    "dateTested": "July 16, 2019"
+  },
+  {
+    "gameTitle": "Treasure Stack",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 12, 2019"
+  },
+  {
+    "gameTitle": "Trials Rising Standard Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 11, 2020"
+  },
+  {
+    "gameTitle": "Tricky Towers",
+    "compatibility": "Bad",
+    "dateTested": "January 10, 2019"
+  },
+  {
+    "gameTitle": "Trine 2: Complete Story",
+    "compatibility": "Great",
+    "dateTested": "August 3, 2019"
+  },
+  {
+    "gameTitle": "Trine 3: The Artifacts of Power",
+    "compatibility": "Bad",
+    "dateTested": "March 4, 2020"
+  },
+  {
+    "gameTitle": "Trine Enchanted Edition",
+    "compatibility": "Okay",
+    "dateTested": "August 19, 2019"
+  },
+  {
+    "gameTitle": "Troll and I",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 15, 2018"
+  },
+  {
+    "gameTitle": "Trouserheart",
+    "compatibility": "Okay",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Truck Simulator USA",
+    "compatibility": "Bad",
+    "dateTested": "March 6, 2020"
+  },
+  {
+    "gameTitle": "True Fear: Forsaken Souls - Part 1",
+    "compatibility": "Bad",
+    "dateTested": "November 16, 2018"
+  },
+  {
+    "gameTitle": "Turok",
+    "compatibility": "Bad",
+    "dateTested": "November 17, 2019"
+  },
+  {
+    "gameTitle": "TurtlePop: Journey to Freedom",
+    "compatibility": "Okay",
+    "dateTested": "June 2, 2020"
+  },
+  {
+    "gameTitle": "Two Point Hospital",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Typoman",
+    "compatibility": "Okay",
+    "dateTested": "May 28, 2019"
+  },
+  {
+    "gameTitle": "UNBOX: Newbie\u0027s Adventure",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 23, 2019"
+  },
+  {
+    "gameTitle": "UNO for Nintendo Switch",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 13, 2020"
+  },
+  {
+    "gameTitle": "Ultimate Chicken Horse",
+    "compatibility": "Bad",
+    "dateTested": "February 19, 2019"
+  },
+  {
+    "gameTitle": "Ultimate Racing 2D",
+    "compatibility": "Great",
+    "dateTested": "July 6, 2020"
+  },
+  {
+    "gameTitle": "Ultra Street Fighter II: The Final Challengers",
+    "compatibility": "Great",
+    "dateTested": "April 24, 2020"
+  },
+  {
+    "gameTitle": "Umihara Kawase Fresh!",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 27, 2020"
+  },
+  {
+    "gameTitle": "Uncanny Valley",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 23, 2019"
+  },
+  {
+    "gameTitle": "Undertale",
+    "compatibility": "Great",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Unepic",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 8, 2019"
+  },
+  {
+    "gameTitle": "Unruly Heroes",
+    "compatibility": "Perfect",
+    "dateTested": "March 11, 2020"
+  },
+  {
+    "gameTitle": "Untitled Goose Game",
+    "compatibility": "Okay",
+    "dateTested": "April 24, 2020"
+  },
+  {
+    "gameTitle": "Urban Trial Playground",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 7, 2019"
+  },
+  {
+    "gameTitle": "V-Rally 4",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 16, 2019"
+  },
+  {
+    "gameTitle": "VOEZ",
+    "compatibility": "Great",
+    "dateTested": "July 3, 2020"
+  },
+  {
+    "gameTitle": "VVVVVV",
+    "compatibility": "Perfect",
+    "dateTested": "July 12, 2020"
+  },
+  {
+    "gameTitle": "Valfaris",
+    "compatibility": "Okay",
+    "dateTested": "April 21, 2020"
+  },
+  {
+    "gameTitle": "Velocity2X",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 6, 2019"
+  },
+  {
+    "gameTitle": "Violett",
+    "compatibility": "Okay",
+    "dateTested": "April 30, 2020"
+  },
+  {
+    "gameTitle": "Volgarr the Viking",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "WONDER BOY RETURNS REMIX",
+    "compatibility": "Perfect",
+    "dateTested": "February 24, 2020"
+  },
+  {
+    "gameTitle": "WORLD OF FINAL FANTASY MAXIMA",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 12, 2020"
+  },
+  {
+    "gameTitle": "WRC 8 FIA World Rally Championship",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 7, 2020"
+  },
+  {
+    "gameTitle": "WWE 2K18",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "February 26, 2019"
+  },
+  {
+    "gameTitle": "Wargroove",
+    "compatibility": "Okay",
+    "dateTested": "March 26, 2020"
+  },
+  {
+    "gameTitle": "Wasteland 2: Director\u0027s Cut",
+    "compatibility": "Bad",
+    "dateTested": "March 4, 2020"
+  },
+  {
+    "gameTitle": "Welcome to Hanwell",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 31, 2019"
+  },
+  {
+    "gameTitle": "West of Loathing",
+    "compatibility": "Okay",
+    "dateTested": "May 19, 2020"
+  },
+  {
+    "gameTitle": "Wheel of Fortune",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 14, 2019"
+  },
+  {
+    "gameTitle": "Whipseey and the Lost Atlas",
+    "compatibility": "Great",
+    "dateTested": "June 15, 2020"
+  },
+  {
+    "gameTitle": "Whispering Willows",
+    "compatibility": "Great",
+    "dateTested": "May 29, 2020"
+  },
+  {
+    "gameTitle": "Wild Guns Reloaded",
+    "compatibility": "Okay",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Windjammers",
+    "compatibility": "Great",
+    "dateTested": "May 23, 2020"
+  },
+  {
+    "gameTitle": "Wizard of Legend",
+    "compatibility": "Okay",
+    "dateTested": "April 16, 2019"
+  },
+  {
+    "gameTitle": "Wolfenstein II: The New Colossus",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 11, 2019"
+  },
+  {
+    "gameTitle": "Wonder Boy: The Dragon\u0027s Trap",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 12, 2020"
+  },
+  {
+    "gameTitle": "Woodle Tree 2: Deluxe",
+    "compatibility": "Okay",
+    "dateTested": "April 22, 2020"
+  },
+  {
+    "gameTitle": "Woodle Tree Adventures",
+    "compatibility": "Great",
+    "dateTested": "July 23, 2019"
+  },
+  {
+    "gameTitle": "World of Goo",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 20, 2020"
+  },
+  {
+    "gameTitle": "WorldNeverland - Elnea Kingdom",
+    "compatibility": "Great",
+    "dateTested": "April 2, 2020"
+  },
+  {
+    "gameTitle": "Worms W.M.D",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 30, 2019"
+  },
+  {
+    "gameTitle": "Wuppo: Definitive Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Xenoblade Chronicles 2",
+    "compatibility": "Bad",
+    "dateTested": "July 23, 2020"
+  },
+  {
+    "gameTitle": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "compatibility": "Bad",
+    "dateTested": "July 23, 2020"
+  },
+  {
+    "gameTitle": "Xenon Valkyrie+",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Xeodrifter",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "YIIK: A Postmodern RPG",
+    "compatibility": "Okay",
+    "dateTested": "February 17, 2020"
+  },
+  {
+    "gameTitle": "Yesterday Origins",
+    "compatibility": "Bad",
+    "dateTested": "December 9, 2018"
+  },
+  {
+    "gameTitle": "Yomawari: The Long Night Collection",
+    "compatibility": "Okay",
+    "dateTested": "January 5, 2019"
+  },
+  {
+    "gameTitle": "Yonder: The Cloud Catcher Chronicles",
+    "compatibility": "Okay",
+    "dateTested": "June 5, 2020"
+  },
+  {
+    "gameTitle": "Yooka-Laylee",
+    "compatibility": "Okay",
+    "dateTested": "April 24, 2020"
+  },
+  {
+    "gameTitle": "Yooka-Laylee and the Impossible Lair",
+    "compatibility": "Okay",
+    "dateTested": "March 9, 2020"
+  },
+  {
+    "gameTitle": "Yoshi’s Crafted World",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "Youtubers Life OMG Edition",
+    "compatibility": "Great",
+    "dateTested": "December 11, 2019"
+  },
+  {
+    "gameTitle": "Ys VIII: Lacrimosa of DANA",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+    "compatibility": "Bad",
+    "dateTested": "March 8, 2020"
+  },
+  {
+    "gameTitle": "Yōdanji",
+    "compatibility": "Great",
+    "dateTested": "June 26, 2020"
+  },
+  {
+    "gameTitle": "Zaccaria Pinball",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 31, 2020"
+  },
+  {
+    "gameTitle": "Zombie Driver Immortal Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 15, 2019"
+  },
+  {
+    "gameTitle": "Zombie Panic in Wonderland DX",
+    "compatibility": "Great",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Zumba Burn It Up!",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 31, 2020"
+  },
+  {
+    "gameTitle": "de Blob",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "de Blob 2",
+    "compatibility": "Great",
+    "dateTested": "June 23, 2020"
+  },
+  {
+    "gameTitle": "forma.8",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "resident evil 4",
+    "compatibility": "Okay",
+    "dateTested": "June 11, 2020"
+  },
+  {
+    "gameTitle": "2048 Battles",
+    "compatibility": "Great",
+    "dateTested": "January 25, 2020"
+  },
+  {
+    "gameTitle": "3000th Duel",
+    "compatibility": "Great",
+    "dateTested": "March 19, 2020"
+  },
+  {
+    "gameTitle": "3D MiniGolf",
+    "compatibility": "Okay",
+    "dateTested": "August 14, 2019"
+  },
+  {
+    "gameTitle": "6180 the moon",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "99Seconds",
+    "compatibility": "Perfect",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "ACA NEOGEO AERO FIGHTERS 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO FATAL FURY 3",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO FATAL FURY SPECIAL",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO Gururin",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO MAGICAL DROP II",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO OVER TOP",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO REAL BOUT FATAL FURY SPECIAL",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SENGOKU 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "ACA NEOGEO SHOCK TROOPERS 2nd Squad",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "ARK: Survival Evolved",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "ATV Drift \u0026 Tricks",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "Air Conflicts: Secret Wars",
+    "compatibility": "Bad",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "Anima: Gate of Memories - Arcane Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 10, 2019"
+  },
+  {
+    "gameTitle": "Apocalipsis Wormwood Edition",
+    "compatibility": "Great",
+    "dateTested": "February 12, 2020"
+  },
+  {
+    "gameTitle": "Aqua Moto Racing Utopia",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "Arcade Archives DONKEY KONG JR.",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Arcade Archives ELEVATOR ACTION",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Art of Balance",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Ascendant Hearts",
+    "compatibility": "Great",
+    "dateTested": "June 24, 2020"
+  },
+  {
+    "gameTitle": "Atari Flashback Classics",
+    "compatibility": "Perfect",
+    "dateTested": "June 2, 2020"
+  },
+  {
+    "gameTitle": "Attack on Titan 2",
+    "compatibility": "Okay",
+    "dateTested": "June 1, 2020"
+  },
+  {
+    "gameTitle": "Aviary Attorney: Definitive Edition",
+    "compatibility": "Great",
+    "dateTested": "February 4, 2020"
+  },
+  {
+    "gameTitle": "BINGO for Nintendo Switch",
+    "compatibility": "Great",
+    "dateTested": "August 26, 2019"
+  },
+  {
+    "gameTitle": "BLAZBLUE CROSS TAG BATTLE SPECIAL TRIAL",
+    "compatibility": "Intro/Menu",
+    "dateTested": "May 15, 2019"
+  },
+  {
+    "gameTitle": "Battle Chef Brigade Deluxe",
+    "compatibility": "Bad",
+    "dateTested": "May 25, 2020"
+  },
+  {
+    "gameTitle": "Battle Princess Madelyn",
+    "compatibility": "Okay",
+    "dateTested": "September 6, 2019"
+  },
+  {
+    "gameTitle": "Blade II - The Return Of Evil",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "June 20, 2020"
+  },
+  {
+    "gameTitle": "Blasphemous",
+    "compatibility": "Bad",
+    "dateTested": "June 13, 2020"
+  },
+  {
+    "gameTitle": "Bomb Chicken",
+    "compatibility": "Perfect",
+    "dateTested": "May 23, 2020"
+  },
+  {
+    "gameTitle": "Bonds of the Skies",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "CHOP",
+    "compatibility": "Bad",
+    "dateTested": "April 29, 2020"
+  },
+  {
+    "gameTitle": "CONTRA: ROGUE CORPS",
+    "compatibility": "Bad",
+    "dateTested": "May 16, 2020"
+  },
+  {
+    "gameTitle": "Captain Toad: Treasure Tracker",
+    "compatibility": "Okay",
+    "dateTested": "July 27, 2020"
+  },
+  {
+    "gameTitle": "Carcassonne",
+    "compatibility": "Great",
+    "dateTested": "January 12, 2019"
+  },
+  {
+    "gameTitle": "Cartoon Network: Battle Crashers",
+    "compatibility": "Bad",
+    "dateTested": "May 31, 2020"
+  },
+  {
+    "gameTitle": "Cat Quest II",
+    "compatibility": "Okay",
+    "dateTested": "April 17, 2020"
+  },
+  {
+    "gameTitle": "Child of Light Ultimate Edition",
+    "compatibility": "Great",
+    "dateTested": "December 10, 2019"
+  },
+  {
+    "gameTitle": "Coffin Dodgers",
+    "compatibility": "Okay",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Collection of Mana",
+    "compatibility": "Bad",
+    "dateTested": "March 26, 2020"
+  },
+  {
+    "gameTitle": "Coloring Book",
+    "compatibility": "Bad",
+    "dateTested": "April 12, 2020"
+  },
+  {
+    "gameTitle": "Conduct TOGETHER!",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "March 21, 2020"
+  },
+  {
+    "gameTitle": "Creature in the Well",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 10, 2020"
+  },
+  {
+    "gameTitle": "Crimsonland",
+    "compatibility": "Bad",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Crypt of the Serpent King",
+    "compatibility": "Great",
+    "dateTested": "May 30, 2020"
+  },
+  {
+    "gameTitle": "DARK SOULS: REMASTERED",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "January 4, 2020"
+  },
+  {
+    "gameTitle": "DEADBOLT",
+    "compatibility": "Perfect",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "DOOM II (Classic)",
+    "compatibility": "Okay",
+    "dateTested": "June 24, 2020"
+  },
+  {
+    "gameTitle": "Danmaku Unlimited 3",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Detective Gallo",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Detention",
+    "compatibility": "Bad",
+    "dateTested": "February 5, 2020"
+  },
+  {
+    "gameTitle": "Digimon Story Cyber Sleuth: Complete Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 17, 2019"
+  },
+  {
+    "gameTitle": "Dimension Drive",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Ding Dong XL",
+    "compatibility": "Great",
+    "dateTested": "May 18, 2020"
+  },
+  {
+    "gameTitle": "Drawful 2",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 20, 2020"
+  },
+  {
+    "gameTitle": "Drone Fight",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Dusk Diver",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "EARTHLOCK",
+    "compatibility": "Okay",
+    "dateTested": "December 8, 2019"
+  },
+  {
+    "gameTitle": "EXTREME POKER",
+    "compatibility": "Great",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "Elemental Knights R",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Etherborn",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "July 19, 2019"
+  },
+  {
+    "gameTitle": "FIFA 19",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "December 21, 2018"
+  },
+  {
+    "gameTitle": "Fire Emblem: Three Houses",
+    "compatibility": "Not Tested",
+    "dateTested": ""
+  },
+  {
+    "gameTitle": "Fishing Star World Tour",
+    "compatibility": "Perfect",
+    "dateTested": "February 27, 2020"
+  },
+  {
+    "gameTitle": "Fossil Hunters",
+    "compatibility": "Intro/Menu",
+    "dateTested": "September 1, 2019"
+  },
+  {
+    "gameTitle": "GENSOU Skydrift",
+    "compatibility": "Perfect",
+    "dateTested": "July 5, 2020"
+  },
+  {
+    "gameTitle": "GIGANTIC ARMY",
+    "compatibility": "Bad",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "GRANDIA HD Collection",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 16, 2019"
+  },
+  {
+    "gameTitle": "Grand Prix Story",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 7, 2019"
+  },
+  {
+    "gameTitle": "Gun Gun Pixies",
+    "compatibility": "Okay",
+    "dateTested": "June 21, 2020"
+  },
+  {
+    "gameTitle": "HEROINE ANTHEM ZERO episode 1",
+    "compatibility": "Great",
+    "dateTested": "April 10, 2020"
+  },
+  {
+    "gameTitle": "Harvest Moon: Light of Hope Special Edition",
+    "compatibility": "Perfect",
+    "dateTested": "January 19, 2020"
+  },
+  {
+    "gameTitle": "Hello Kitty Kruisers With Sanrio Friends",
+    "compatibility": "Bad",
+    "dateTested": "April 15, 2020"
+  },
+  {
+    "gameTitle": "Heroki",
+    "compatibility": "Great",
+    "dateTested": "May 6, 2020"
+  },
+  {
+    "gameTitle": "Horizon Chase Turbo",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 5, 2019"
+  },
+  {
+    "gameTitle": "Hulu",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 20, 2020"
+  },
+  {
+    "gameTitle": "Ittle Dew",
+    "compatibility": "Perfect",
+    "dateTested": "August 16, 2019"
+  },
+  {
+    "gameTitle": "Ittle Dew 2+",
+    "compatibility": "Perfect",
+    "dateTested": "August 12, 2019"
+  },
+  {
+    "gameTitle": "Jet Kave Adventure",
+    "compatibility": "Great",
+    "dateTested": "January 24, 2020"
+  },
+  {
+    "gameTitle": "Johnny Turbo\u0027s Arcade: Wizard Fire",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Just Dance 2017",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Katana ZERO",
+    "compatibility": "Okay",
+    "dateTested": "March 27, 2020"
+  },
+  {
+    "gameTitle": "Little Nightmares Complete Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 14, 2019"
+  },
+  {
+    "gameTitle": "Mark of the Ninja: Remastered",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 25, 2018"
+  },
+  {
+    "gameTitle": "Mega Man Zero/ZX Legacy Collection",
+    "compatibility": "Okay",
+    "dateTested": "July 16, 2020"
+  },
+  {
+    "gameTitle": "Metro 2033 Redux",
+    "compatibility": "Bad",
+    "dateTested": "July 5, 2020"
+  },
+  {
+    "gameTitle": "Monster Boy and the Cursed Kingdom",
+    "compatibility": "Okay",
+    "dateTested": "July 17, 2020"
+  },
+  {
+    "gameTitle": "Monster Energy Supercross - The Official Videogame",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 23, 2019"
+  },
+  {
+    "gameTitle": "NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 20, 2019"
+  },
+  {
+    "gameTitle": "Night Trap - 25th Anniversary Edition",
+    "compatibility": "Intro/Menu",
+    "dateTested": "March 8, 2019"
+  },
+  {
+    "gameTitle": "Observer",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 31, 2019"
+  },
+  {
+    "gameTitle": "Octahedron: Transfixed Edition",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 31, 2019"
+  },
+  {
+    "gameTitle": "Overcooked! 2",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 19, 2020"
+  },
+  {
+    "gameTitle": "Phoenix Wright: Ace Attorney Trilogy",
+    "compatibility": "Perfect",
+    "dateTested": "July 12, 2019"
+  },
+  {
+    "gameTitle": "Pic-a-Pix Deluxe",
+    "compatibility": "Intro/Menu",
+    "dateTested": "August 1, 2019"
+  },
+  {
+    "gameTitle": "Please, Don\u0027t Touch Anything",
+    "compatibility": "Bad",
+    "dateTested": "November 25, 2018"
+  },
+  {
+    "gameTitle": "Pode",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 13, 2018"
+  },
+  {
+    "gameTitle": "Pokémon: Let’s Go, Eevee!",
+    "compatibility": "Okay",
+    "dateTested": "July 24, 2020"
+  },
+  {
+    "gameTitle": "Pokémon: Let’s Go, Pikachu!",
+    "compatibility": "Okay",
+    "dateTested": "June 24, 2020"
+  },
+  {
+    "gameTitle": "Putty Pals",
+    "compatibility": "Bad",
+    "dateTested": "May 31, 2019"
+  },
+  {
+    "gameTitle": "Puyo Puyo Champions",
+    "compatibility": "Perfect",
+    "dateTested": "June 4, 2019"
+  },
+  {
+    "gameTitle": "Resident Evil 0",
+    "compatibility": "Okay",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "Resident Evil 6",
+    "compatibility": "Perfect",
+    "dateTested": "June 7, 2020"
+  },
+  {
+    "gameTitle": "RiME",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "Rise and Shine",
+    "compatibility": "Bad",
+    "dateTested": "November 16, 2018"
+  },
+  {
+    "gameTitle": "Root Letter: Last Answer",
+    "compatibility": "Bad",
+    "dateTested": "February 10, 2020"
+  },
+  {
+    "gameTitle": "Rune Factory 4 Special",
+    "compatibility": "Bad",
+    "dateTested": "July 16, 2020"
+  },
+  {
+    "gameTitle": "SEGA AGES Alex Kidd in Miracle World",
+    "compatibility": "Okay",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "SEGA AGES Gain Ground",
+    "compatibility": "Bad",
+    "dateTested": "April 6, 2019"
+  },
+  {
+    "gameTitle": "SONIC FORCES",
+    "compatibility": "Bad",
+    "dateTested": "July 25, 2020"
+  },
+  {
+    "gameTitle": "SWORD ART ONLINE: Hollow Realization Deluxe Edition",
+    "compatibility": "Bad",
+    "dateTested": "May 13, 2020"
+  },
+  {
+    "gameTitle": "Salt and Sanctuary",
+    "compatibility": "Intro/Menu",
+    "dateTested": "December 10, 2019"
+  },
+  {
+    "gameTitle": "Shantae and the Pirate\u0027s Curse",
+    "compatibility": "Great",
+    "dateTested": "September 29, 2019"
+  },
+  {
+    "gameTitle": "Shikhondo - Soul Eater",
+    "compatibility": "Great",
+    "dateTested": "February 29, 2020"
+  },
+  {
+    "gameTitle": "Shining Resonance Refrain",
+    "compatibility": "Okay",
+    "dateTested": "May 22, 2020"
+  },
+  {
+    "gameTitle": "Siralim 3",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "August 22, 2019"
+  },
+  {
+    "gameTitle": "Soul Knight",
+    "compatibility": "Great",
+    "dateTested": "June 23, 2020"
+  },
+  {
+    "gameTitle": "Space Ribbon",
+    "compatibility": "Bad",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "Super Hydorah",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "November 17, 2018"
+  },
+  {
+    "gameTitle": "Super One More Jump",
+    "compatibility": "Perfect",
+    "dateTested": "June 17, 2019"
+  },
+  {
+    "gameTitle": "Sushi Striker: The Way of Sushido",
+    "compatibility": "Great",
+    "dateTested": "May 4, 2020"
+  },
+  {
+    "gameTitle": "TINY METAL: FULL METAL RUMBLE",
+    "compatibility": "Bad",
+    "dateTested": "June 22, 2020"
+  },
+  {
+    "gameTitle": "Taiko no Tatsujin: Drum \u0027n\u0027 Fun!",
+    "compatibility": "Okay",
+    "dateTested": "May 14, 2020"
+  },
+  {
+    "gameTitle": "The Adventure Pals",
+    "compatibility": "Perfect",
+    "dateTested": "April 26, 2020"
+  },
+  {
+    "gameTitle": "The Legend of Dark Witch",
+    "compatibility": "Perfect",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "The Legend of Zelda: Link\u0027s Awakening",
+    "compatibility": "Bad",
+    "dateTested": "July 26, 2020"
+  },
+  {
+    "gameTitle": "The Touryst",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2020"
+  },
+  {
+    "gameTitle": "Thumper",
+    "compatibility": "Intro/Menu",
+    "dateTested": "January 2, 2019"
+  },
+  {
+    "gameTitle": "Toby: The Secret Mine",
+    "compatibility": "Okay",
+    "dateTested": "June 24, 2020"
+  },
+  {
+    "gameTitle": "Toki",
+    "compatibility": "Bad",
+    "dateTested": "April 5, 2019"
+  },
+  {
+    "gameTitle": "Turok 2: Seeds of Evil",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "April 11, 2020"
+  },
+  {
+    "gameTitle": "Under Night In-Birth Exe:Late[cl-r]",
+    "compatibility": "Great",
+    "dateTested": "February 22, 2020"
+  },
+  {
+    "gameTitle": "VAMPYR",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 24, 2020"
+  },
+  {
+    "gameTitle": "VSR: Void Space Racing",
+    "compatibility": "Intro/Menu",
+    "dateTested": "April 9, 2020"
+  },
+  {
+    "gameTitle": "Valkyria Chronicles 4",
+    "compatibility": "Bad",
+    "dateTested": "February 11, 2019"
+  },
+  {
+    "gameTitle": "Xenon Racer",
+    "compatibility": "Intro/Menu",
+    "dateTested": "June 29, 2019"
+  },
+  {
+    "gameTitle": "YUMENIKKI -DREAM DIARY-",
+    "compatibility": "Bad",
+    "dateTested": "April 28, 2020"
+  },
+  {
+    "gameTitle": "Yono and the Celestial Elephants",
+    "compatibility": "Perfect",
+    "dateTested": "September 9, 2019"
+  },
+  {
+    "gameTitle": "YouTube",
+    "compatibility": "Won\u0027t Boot",
+    "dateTested": "September 22, 2019"
+  },
+  {
+    "gameTitle": "ZERO GUNNER 2- for Nintendo Switch",
+    "compatibility": "Okay",
+    "dateTested": "September 9, 2019"
+  }
+]
